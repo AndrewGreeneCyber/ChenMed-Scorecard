@@ -270,7 +270,7 @@
 
 ## 🧮 Final Score Calculation
 
-Each attribute is weighted equally. You may assign 1 point for "Meets Expectation", 0 for "Needs Improvement", and exclude "N/A" from the total.  
+TBD
 **Final Score:** _[Your total score here]_ out of _[Total applicable attributes]_
 
 ---
