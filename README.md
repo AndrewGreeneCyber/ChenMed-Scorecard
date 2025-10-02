@@ -1,18 +1,16 @@
-# ChenMed-Scorecard
-
 # 🧡 Patient Critical Attributes
 
 <details>
 <summary><strong>Greeting & Branding</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
 
 **Drivers:**  
-- ☐ Fails to use approved greeting (center name or company name)  
-- ☐ Omits self-introduction  
-- ☐ Greets caller to incorrect Center or Company  
+- [ ] Fails to use approved greeting (center name or company name)  
+- [ ] Omits self-introduction  
+- [ ] Greets caller to incorrect Center or Company  
 
 **Scoring Definition:**  
 - **ME:** Opens with correct greeting, includes name and Center brand  
@@ -24,12 +22,12 @@
 <summary><strong>Patient Identity Verification</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
 
 **Drivers:**  
-- ☐ Fails to confirm full name  
-- ☐ Fails to confirm date of birth  
+- [ ] Fails to confirm full name  
+- [ ] Fails to confirm date of birth  
 
 **Scoring Definition:**  
 - **ME:** Correctly verifies patient’s full name and DOB before providing information from chart  
@@ -41,13 +39,13 @@
 <summary><strong>Reassurance & Confirmation of Assistance</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
 
 **Drivers:**  
-- ☐ Does not offer a willingness to help  
-- ☐ Reassures the caller after addressing the issues  
-- ☐ Reassures the caller before learning what the issue is  
+- [ ] Does not offer a willingness to help  
+- [ ] Reassures the caller after addressing the issues  
+- [ ] Reassures the caller before learning what the issue is  
 
 **Scoring Definition:**  
 - **ME:** Provides reassurance (e.g., “I’m happy to help”)  
@@ -59,16 +57,16 @@
 <summary><strong>Professionalism</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
 
 **Drivers:**  
-- ☐ Background noise disrupts professionalism  
-- ☐ Uses short, sarcastic, or rushed answers  
-- ☐ Speaks too fast/slow or intentionally rudely interrupts the caller  
-- ☐ Tone is not warm or welcoming  
-- ☐ Belittling the caller  
-- ☐ Condescending or impatient tone  
+- [ ] Background noise disrupts professionalism  
+- [ ] Uses short, sarcastic, or rushed answers  
+- [ ] Speaks too fast/slow or intentionally rudely interrupts the caller  
+- [ ] Tone is not warm or welcoming  
+- [ ] Belittling the caller  
+- [ ] Condescending or impatient tone  
 
 **Scoring Definition:**  
 - **ME:** Maintains professional, polite, and welcoming tone throughout the interaction  
@@ -80,13 +78,13 @@
 <summary><strong>Active Listening & Engagement</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
 
 **Drivers:**  
-- ☐ Caller has to repeat information already provided multiple times  
-- ☐ Agent appears distracted or inattentive  
-- ☐ Misses cues in patient’s or caller’s request  
+- [ ] Caller has to repeat information already provided multiple times  
+- [ ] Agent appears distracted or inattentive  
+- [ ] Misses cues in patient’s or caller’s request  
 
 **Scoring Definition:**  
 - **ME:** Demonstrates focus, acknowledges patient needs, avoids repetition  
@@ -98,13 +96,13 @@
 <summary><strong>Holds</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
-☐ N/A  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
+- [ ] N/A  
 
 **Drivers:**  
-- ☐ Places caller on hold without permission  
-- ☐ Fails to thank patient upon return  
+- [ ] Places caller on hold without permission  
+- [ ] Fails to thank patient upon return  
 
 **Scoring Definition:**  
 - **ME:** Requests permission for hold and thanks caller upon return  
@@ -117,19 +115,19 @@
 <summary><strong>Call Closing</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
-☐ N/A  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
+- [ ] N/A  
 
 **Drivers:**  
-- ☐ Fails to summarize resolution or next steps  
-- ☐ Does not set correct expectations for follow-up/turnaround time  
-- ☐ Skips professional closing (e.g., “Thank you for choosing [Brand/Center]”)  
+- [ ] Fails to summarize resolution or next steps  
+- [ ] Does not set correct expectations for follow-up/turnaround time  
+- [ ] Skips professional closing (e.g., “Thank you for choosing [Brand/Center]”)  
 
 **Scoring Definition:**  
 - **ME:** Summarizes resolution and expectations, uses professional closing, and selects correct disposition  
 - **NI:** Ends call without clarity, skips closing, or dispositions inaccurately  
-- **N/A:** Call disconnected prematurely or out of STC’s control  
+- **N/A Applicable:** Only if the call disconnects prematurely or is otherwise out of the STC’s control  
 
 </details>
 
@@ -137,20 +135,22 @@
 <summary><strong>Dispositions</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
-☐ N/A  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
+- [ ] N/A  
 
 **Drivers:**  
-- ☐ Fails to disposition the call in InContact  
-- ☐ Selects incorrect disposition  
+- [ ] Fails to disposition the call in InContact  
+- [ ] Selects incorrect disposition  
 
 **Scoring Definition:**  
 - **ME:** Selects the correct disposition and ensures it reflects the outcome of the call  
-- **NI:** Skips disposition or selects an incorrect option  
-- **N/A:** System outage or technical error prevents disposition  
+- **NI:** Skips disposition or selects an incorrect option, impacting record accuracy and care continuity  
+- **N/A Applicable:** Only if system outage or technical error prevents disposition  
 
 </details>
+
+---
 
 # 💼 Business Critical Attributes
 
@@ -158,24 +158,24 @@
 <summary><strong>Documentation</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
-☐ N/A  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
+- [ ] N/A  
 
 **Drivers:**  
-- ☐ Fails to use correct message templates/ProKeys  
-- ☐ Did not create a Phone Message or Task when required  
-- ☐ Selected inaccurate Message type or Priority  
-- ☐ Created a Phone Message or Task when NOT required  
-- ☐ Did not verbally confirm caller and relationship to patient  
-- ☐ Message/Task missing reason or pertinent info  
-- ☐ Did not confirm call back number  
-- ☐ Did not confirm or summarize message/task  
+- [ ] Fails to use correct message templates/ProKeys  
+- [ ] Did not create a Phone Message or Task when required  
+- [ ] Selected inaccurate Message type or Priority  
+- [ ] Created a Phone Message or Task when NOT required  
+- [ ] Did not verbally confirm if message/task includes caller and relationship to the patient  
+- [ ] Phone Message/Task does NOT include reason for the call or concern, and all pertinent information provided by the patient  
+- [ ] Did NOT verbally confirm message/task includes call back number  
+- [ ] Did NOT verbally confirm or summarize message/task and confirm all the information is accurate  
 
 **Scoring Definition:**  
-- **ME:** Message complete, accurate, follows SOP templates  
+- **ME:** Message complete, accurate, follows Phone Message & Task SOP templates  
 - **NI:** Message missing required details or incorrectly logged  
-- **N/A:** Message/Task not required and not created  
+- **N/A:** Phone Message or Task was not required on interaction and STC did not create one  
 
 </details>
 
@@ -183,22 +183,22 @@
 <summary><strong>Transfers and Escalations</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
-☐ N/A  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
+- [ ] N/A  
 
 **Drivers:**  
-- ☐ Transfers/Escalates without offering assistance  
-- ☐ No explanation for transfer/escalation  
-- ☐ Fails to gather relevant info  
-- ☐ Transfers/escalates to wrong department  
-- ☐ Omits warm transfer introduction  
-- ☐ Did not escalate when required  
+- [ ] Transfers/Escalates without offering assistance  
+- [ ] Provides no explanation for transfer/Escalation  
+- [ ] Fails to gather relevant info before transfer/escalation  
+- [ ] Transfers/escalate to wrong department  
+- [ ] Omits warm transfer/escalation introduction  
+- [ ] Did NOT escalate when required by procedure  
 
 **Scoring Definition:**  
 - **ME:** Provides clear reason, gathers info, completes warm transfer  
 - **NI:** Transfers abruptly, incorrectly, or without context  
-- **N/A:** Transfer not required or did not occur  
+- **N/A:** Transfer did not happen on the call or was required  
 
 </details>
 
@@ -206,20 +206,20 @@
 <summary><strong>Scheduling & Coordination</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
-☐ N/A  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
+- [ ] N/A  
 
 **Drivers:**  
-- ☐ Skips clarifying questions  
-- ☐ Misses required info  
-- ☐ Mishandles appointments/referrals  
-- ☐ Fails to verify eligibility  
+- [ ] Skips clarifying questions for appointments/transportation/refills/referrals  
+- [ ] Does not obtained all required or needed information as required for procedure  
+- [ ] Incorrectly handles transportations, appointments, refills, or referrals, OR omits key steps found in corresponding SOP  
+- [ ] Fails to verify eligibility (e.g., ePrescribe check, checking appointments, checking Leading Reach)  
 
 **Scoring Definition:**  
 - **ME:** Asks required questions, follows SOP, schedules accurately  
-- **NI:** Skips verification or SOP steps  
-- **N/A:** No scheduling or coordination required  
+- **NI:** Skips verification or misses SOP steps, leading to errors  
+- **N/A:** Does not manipulate transportation, appointments, referrals, or refills  
 
 </details>
 
@@ -227,21 +227,23 @@
 <summary><strong>Information Accuracy</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
-☐ N/A  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
+- [ ] N/A  
 
 **Drivers:**  
-- ☐ Skips clarifying questions  
-- ☐ Provides incomplete or inaccurate info  
-- ☐ Communicates unclearly  
+- [ ] Skips clarifying questions needed to understand the patient’s request or the update in Dash  
+- [ ] Provides information that is incomplete, inaccurate, or missing key details relevant to the patient’s needs  
+- [ ] Communicates in a way that is unclear, overly technical, or confusing to the patient  
 
 **Scoring Definition:**  
-- **ME:** Asks relevant questions, provides accurate info, communicates clearly  
-- **NI:** Misses questions, gives inaccurate info  
-- **N/A:** No clarification or updates required  
+- **ME:** Asks clarifying/relevant questions, provides accurate and complete information, and communicates in a clear and understandable manner  
+- **NI:** Misses critical questions, provides incomplete/inaccurate information, or escalates without fully understanding the issue  
+- **N/A:** No clarification, updates, or escalations were required for the interaction  
 
 </details>
+
+---
 
 # 🔏 Regulatory Critical Attribute
 
@@ -249,30 +251,16 @@
 <summary><strong>Compliance & Auto-Fails</strong></summary>
 
 **Scoring Options:**  
-☐ Meets Expectation  
-☐ Needs Improvement  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
 
-**Drivers:**  
-- ☐ Provides medical advice  
-- ☐ Profanity  
-- ☐ Hanging up on a caller  
-- ☐ Not answering the call  
-- ☐ Rude behavior  
-- ☐ Medical advice/opinion  
+**Drivers:**   
+- [ ] Profanity  
+- [ ] Hanging up on a caller  
+- [ ] Not answering the call    
+- [ ] Providing any type of medical advice/opinion  
 
 **Scoring Definition:**  
-- **ME:** Performs identity checks, PIN verification, SOP compliance  
-- **NI:** Skips security steps or mishandles PHI  
-
-</details>
-
----
-
-## 🧮 Final Score Calculation
-
-TBD
-**Final Score:** _[Your total score here]_ out of _[Total applicable attributes]_
-
----
+- **ME:** Answers a call while using professionaly language throughout withought hanging up or providing any form of medical advice or opinion.
 
 
