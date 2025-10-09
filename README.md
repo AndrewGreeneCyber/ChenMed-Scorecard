@@ -9,7 +9,7 @@
 
 **Drivers:**  
 - [ ] Fails to use approved greeting (center name or company name)  
-- [ ] Omits self-introduction  
+- [ ] Omits self-introduction/name  
 - [ ] Greets caller to incorrect Center or Company  
 
 **Scoring Definition:**  
@@ -101,7 +101,7 @@
 - [ ] N/A  
 
 **Drivers:**  
-- [ ] Places caller on hold without permission  
+- [ ] Places caller on hold without asking for permission  
 - [ ] Fails to thank patient upon return  
 
 **Scoring Definition:**  
@@ -126,7 +126,7 @@
 
 **Scoring Definition:**  
 - **ME:** Summarizes resolution and expectations, uses professional closing, and selects correct disposition  
-- **NI:** Ends call without clarity, skips closing, or dispositions inaccurately  
+- **NI:** Ends call without clarity, skips closing  
 - **N/A Applicable:** Only if the call disconnects prematurely or is otherwise out of the STC’s control  
 
 </details>
@@ -147,12 +147,12 @@
 **Drivers:**  
 - [ ] Fails to use correct message templates/ProKeys  
 - [ ] Did not create a Phone Message or Task when required  
-- [ ] Selected inaccurate Message type or Priority  
+- [ ] Selected inaccurate Message type or Priority (Phone Messages only)
 - [ ] Created a Phone Message or Task when NOT required  
 - [ ] Did not verbally confirm if message/task includes caller and relationship to the patient  
-- [ ] Phone Message/Task does NOT include reason for the call or concern, and all pertinent information provided by the patient  
+- [ ] Phone Message/Task does NOT include reason for the call or concern, accurate information, and all pertinent information provided by the caller  
 - [ ] Did NOT verbally confirm message/task includes call back number  
-- [ ] Did NOT verbally confirm or summarize message/task and confirm all the information is accurate  
+- [ ] Did NOT verbally confirm or summarize message/task and set proper expectations for turnaround times.  
 
 **Scoring Definition:**  
 - **ME:** Message complete, accurate, follows Phone Message & Task SOP templates  
@@ -179,8 +179,8 @@
 
 **Scoring Definition:**  
 - **ME:** Provides clear reason, gathers info, completes warm transfer  
-- **NI:** Transfers abruptly, incorrectly, or without context  
-- **N/A:** Transfer did not happen on the call or was required  
+- **NI:** Transfers/escalate abruptly, incorrectly, or without context  
+- **N/A:** Transfer/escalattion did not happen on the call or was required by procedure 
 
 </details>
 
@@ -194,9 +194,9 @@
 
 **Drivers:**  
 - [ ] Skips clarifying questions for appointments/transportation/refills/referrals  
-- [ ] Does not obtained all required or needed information as required for procedure  
+- [ ] Does not obtained all required or needed information as required for and by procedure  
 - [ ] Incorrectly handles transportations, appointments, refills, or referrals, OR omits key steps found in corresponding SOP  
-- [ ] Fails to verify eligibility (e.g., ePrescribe check, checking appointments, checking Leading Reach)  
+- [ ] Fails to verify eligibility (e.g., ePrescribe check, checking appointments, checking Lyft/Uber, checking Leading Reach)  
 
 **Scoring Definition:**  
 - **ME:** Asks required questions, follows SOP, schedules accurately  
@@ -221,7 +221,7 @@
 **Scoring Definition:**  
 - **ME:** Asks clarifying/relevant questions, provides accurate and complete information, and communicates in a clear and understandable manner  
 - **NI:** Misses critical questions, provides incomplete/inaccurate information, or escalates without fully understanding the issue  
-- **N/A:** No clarification, updates, or escalations were required for the interaction  
+- **N/A:** No clarification, updates, or escalations were required for the interaction that previous attributes covered. 
 
 </details>
 
@@ -240,7 +240,7 @@
 **Scoring Definition:**  
 - **ME:** Selects the correct disposition and ensures it reflects the outcome of the call  
 - **NI:** Skips disposition or selects an incorrect option, impacting record accuracy and care continuity  
-- **N/A Applicable:** Only if system outage or technical error prevents disposition  
+- **N/A Applicable:** Only if system outage or technical error prevents disposition or SOP does not cover disposition 
 
 </details>
 
@@ -263,6 +263,6 @@
 - [ ] Providing any type of medical advice/opinion  
 
 **Scoring Definition:**  
-- **ME:** Answers a call while using professionaly language throughout withought hanging up or providing any form of medical advice or opinion.
+- **ME:** Answers a call while using professionally language throghout without hanging up or providing any form of medical advice or opinion.
 
 
