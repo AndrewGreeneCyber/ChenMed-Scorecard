@@ -265,4 +265,21 @@
 **Scoring Definition:**  
 - **ME:** Answers a call while using professionally language throghout without hanging up or providing any form of medical advice or opinion.
 
+# ⚙️ Scoring Methodology
+
+Each **driver** within the scorecard contributes to the total evaluation score based on its assigned point value.  
+
+- ✅ **Meets Expectation (ME):** Full points are retained — no deductions applied.  
+- ⚠️ **Needs Improvement (NI):** Points for that attribute are deducted from the total score based on driver's worth.  
+- 🚫 **Not Applicable (N/A):** Attribute is excluded from scoring — no points gained or lost.  
+
+---
+
+# 🔏 Compliance Auto-Fail
+
+The **Compliance attribute** is non-negotiable.  
+If any compliance driver is missed or marked **Needs Improvement**, the entire evaluation automatically receives a **0% score**. If Scored **Meets Expectation** Attribute's worth may or may not contribute to overall evaluation score. 
+
+Agents should therefore always strive to meet expectations under this attribute to avoid triggering an auto-fail.  
+
 
