@@ -265,6 +265,10 @@
 **Scoring Definition:**  
 - **ME:** Answers a call while using professionally language throghout without hanging up or providing any form of medical advice or opinion.
 
+</details>
+
+---
+
 # ⚙️ Scoring Methodology
 
 Each **driver** within the scorecard contributes to the total evaluation score based on its assigned point value.  
@@ -272,8 +276,6 @@ Each **driver** within the scorecard contributes to the total evaluation score b
 - ✅ **Meets Expectation (ME):** Full points are retained — no deductions applied.  
 - ⚠️ **Needs Improvement (NI):** Points for that attribute are deducted from the total score based on driver's worth.  
 - 🚫 **Not Applicable (N/A):** Attribute is excluded from scoring — no points gained or lost.  
-
----
 
 # 🔏 Compliance Auto-Fail
 
