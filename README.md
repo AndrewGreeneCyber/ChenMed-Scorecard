@@ -131,24 +131,6 @@
 
 </details>
 
-<details>
-<summary><strong>Dispositions</strong></summary>
-
-**Scoring Options:**  
-- [ ] Meets Expectation  
-- [ ] Needs Improvement  
-- [ ] N/A  
-
-**Drivers:**  
-- [ ] Fails to disposition the call in InContact  
-- [ ] Selects incorrect disposition  
-
-**Scoring Definition:**  
-- **ME:** Selects the correct disposition and ensures it reflects the outcome of the call  
-- **NI:** Skips disposition or selects an incorrect option, impacting record accuracy and care continuity  
-- **N/A Applicable:** Only if system outage or technical error prevents disposition  
-
-</details>
 
 ---
 
@@ -242,6 +224,26 @@
 - **N/A:** No clarification, updates, or escalations were required for the interaction  
 
 </details>
+
+<details>
+<summary><strong>Dispositions</strong></summary>
+
+**Scoring Options:**  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
+- [ ] N/A  
+
+**Drivers:**  
+- [ ] Fails to disposition the call in InContact  
+- [ ] Selects incorrect disposition  
+
+**Scoring Definition:**  
+- **ME:** Selects the correct disposition and ensures it reflects the outcome of the call  
+- **NI:** Skips disposition or selects an incorrect option, impacting record accuracy and care continuity  
+- **N/A Applicable:** Only if system outage or technical error prevents disposition  
+
+</details>
+
 
 ---
 
