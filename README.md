@@ -131,6 +131,48 @@
 
 </details>
 
+<details>
+<summary><strong>Patient Empathy & VIP Experience</strong></summary>
+
+**Scoring Options:**  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
+- [ ] N/A  
+
+**Drivers:**  
+- [ ] Fails to acknowledge or adapt to patient’s emotional tone, urgency, or sensitivity  
+- [ ] Misses opportunities to personalize care (e.g., comfort language, positive reinforcement, name usage)  
+- [ ] Responds robotically or without compassion  
+- [ ] Does not demonstrate ownership or priority when interacting with high-need or VIP patients  
+
+**Scoring Definition:**  
+- **ME:** Demonstrates empathy, compassion, and attentiveness through tone, pace, and phrasing. Personalizes the experience, validates patient concerns, and adapts communication appropriately for high-sensitivity or VIP interactions. Balances warmth and professionalism to create a high-trust experience.  
+- **NI:** Uses scripted or impersonal tone, overlooks patient emotion or urgency, or fails to provide reassurance and ownership.  
+- **N/A:** Only if the call is fully transactional with no emotional or sensitive context.  
+
+</details>
+
+<details>
+<summary><strong>Emotional Regulation & De-escalation</strong></summary>
+
+**Scoring Options:**  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
+- [ ] N/A  
+
+**Drivers:**  
+- [ ] Matches caller’s frustration or raises voice  
+- [ ] Fails to remain calm, empathetic, or composed during emotional exchanges  
+- [ ] Does not acknowledge patient frustration or concern appropriately  
+- [ ] Misses opportunity to stabilize or de-escalate through tone and phrasing  
+
+**Scoring Definition:**  
+- **ME:** Maintains calm, patient-centered composure under pressure. Acknowledges emotion without defensiveness, uses tone modulation and empathy to reduce tension, and redirects the conversation toward a solution-focused path.  
+- **NI:** Becomes reactive, impatient, or fails to de-escalate when the patient is upset. Misses verbal or emotional cues requiring tone adjustment.  
+- **N/A:** Applicable only when no emotional escalation or conflict occurred during the interaction.  
+
+</details>
+
 
 ---
 
