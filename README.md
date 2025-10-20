@@ -324,6 +324,203 @@ Each **driver** within the scorecard contributes to the total evaluation score b
 The **Compliance attribute** is non-negotiable.  
 If any compliance driver is missed or marked **Needs Improvement**, the entire evaluation automatically receives a **0% score**. If Scored **Meets Expectation** Attribute's worth may or may not contribute to overall evaluation score. 
 
-Agents should therefore always strive to meet expectations under this attribute to avoid triggering an auto-fail.  
+Agents should therefore always strive to meet expectations under this attribute to avoid triggering an auto-fail. 
+
+# 🧠 General Scoring Principles
+
+- **Default to Coaching, Not Penalizing:** If you’re torn between ME and NI, default to **ME** and add a coaching note instead of a deduction.
+- **N/A Is Not a Shortcut:** Only mark N/A when an attribute genuinely didn’t apply to the call, not because the advisor missed the opportunity.
+- **NI Requires Repetition or Impact:** Use NI when the issue clearly affects the patient experience, creates confusion, or breaks compliance.
+- **Always Add Context:** Each score (especially NI or N/A) must include a brief comment explaining *why* it was chosen — this ensures calibration and transparency.
+
+---
+
+# 🧡 Patient Critical Attributes FAQ
+
+## Greeting & Branding
+**Q:** What if the agent forgets their name but uses the correct greeting?  
+✅ **ME:** "Thank you for calling ABC Medical, how can I help?"  
+⚠️ **Coaching:** Encourage adding their name.  
+❌ **NI:** "Hello?" or missing greeting/brand reference.  
+
+**Q:** Can N/A be used here?  
+🟡 **No.** Greeting is always expected unless the call was disconnected before the agent spoke.
+
+---
+
+## Patient Identity Verification
+**Q:** What if only one identifier (name or DOB) is verified?  
+⚠️ **NI:** Must confirm *both* full name and DOB before discussing PHI.  
+
+**Q:** What if the patient refuses to verify information?  
+✅ **ME:** If the agent followed protocol and documented refusal appropriately.  
+💡 Add coaching note if tone or phrasing could improve compliance confidence.
+
+---
+
+## Reassurance & Confirmation of Assistance
+**Q:** Does “How can I help?” count as reassurance?  
+✅ **ME:** Yes, if tone is welcoming and agent sounds willing to assist.  
+❌ **NI:** Robotic or abrupt transitions (e.g., “What’s the issue?”).  
+
+**Q:** Is reassurance required after resolution?  
+✅ **ME:** “I’m glad we got that sorted out!”  
+⚠️ **NI:** Ending call coldly after issue resolution.
+
+---
+
+## Professionalism
+**Q:** What if tone is fine but background noise exists?  
+⚠️ **Coaching:** If minor noise.  
+❌ **NI:** If noise repeatedly distracts or impacts comprehension.  
+
+**Q:** How do I score sarcasm or rushed behavior?  
+❌ **NI:** Even subtle impatience or abrupt phrasing undermines professionalism.
+
+---
+
+## Active Listening & Engagement
+**Q:** When does repetition count against the agent?  
+❌ **NI:** If the patient repeats info 2+ times due to agent distraction or inattention.  
+✅ **ME:** Agent acknowledges details and clarifies without redundancy.  
+
+**Q:** What if there was silence while checking info?  
+✅ **ME:** Acceptable if explained (“Give me a moment while I check that.”).  
+
+---
+
+## Holds
+**Q:** When is N/A appropriate?  
+✅ **N/A:** When no hold occurred during the call.  
+
+**Q:** What if the hold was brief but agent didn’t ask permission?  
+❌ **NI:** Always obtain consent and thank the caller afterward.  
+✅ **ME:** “May I place you on a brief hold while I check that?”  
+
+---
+
+## Call Closing
+**Q:** When is N/A allowed?  
+✅ **N/A:** Call dropped or disconnected beyond agent control.  
+
+**Q:** What if they summarize but forget the branded close?  
+⚠️ **ME + Coaching:** Brand reinforcement is important but not critical to pass.  
+❌ **NI:** No summary or unclear next steps.
+
+---
+
+## Patient Empathy & VIP Experience
+**Q:** What if the patient shows no emotion?  
+✅ **ME:** Still assess tone and personalization — warmth and natural pacing count.  
+❌ **NI:** Robotic or transactional delivery with no acknowledgment.  
+
+**Q:** Can scripted empathy qualify as ME?  
+✅ **Yes,** if it feels genuine and natural.  
+
+**Q:** What defines a VIP or sensitive experience?  
+🟣 **Examples:** High-anxiety callers, repeat medical issues, or high-priority patients.  
+
+---
+
+## Emotional Regulation & De-escalation
+**Q:** What if the caller becomes frustrated but the agent ignores tone?  
+❌ **NI:** Missed emotional cue — must acknowledge and stabilize.  
+
+**Q:** What if no escalation occurred?  
+✅ **N/A:** Attribute only applies when emotion or conflict is present.  
+
+**Q:** What does successful de-escalation sound like?  
+✅ **ME:** “I completely understand how frustrating that must be. Let’s take care of this together.”
+
+---
+
+# 💼 Business Critical Attributes FAQ
+
+## Documentation
+**Q:** When is N/A valid?  
+✅ **N/A:** No Phone Message or Task required per SOP.  
+
+**Q:** What counts as incomplete documentation?  
+❌ **NI:** Missing callback number, reason, or patient details.  
+✅ **ME:** Complete, accurate message following template.  
+
+**Q:** What if the message was logged but missing small context?  
+⚠️ **ME + Coaching:** Non-critical details can be handled via feedback, not deduction.
+
+---
+
+## Transfers & Escalations
+**Q:** What if the agent transfers without explanation?  
+❌ **NI:** Fails to set caller expectations or confirm receiving department.  
+
+**Q:** Can I give ME if escalation was required but not initiated?  
+❌ **NI:** Required escalations must occur.  
+
+**Q:** What’s a “warm transfer”?  
+✅ **Definition:** Introduces the caller, summarizes the issue, and ensures connection before disconnecting.  
+
+---
+
+## Scheduling & Coordination
+**Q:** When can this be N/A?  
+✅ **N/A:** Call didn’t involve scheduling, refills, referrals, or transport.  
+
+**Q:** What if agent misses one small SOP step but outcome is correct?  
+⚠️ **ME + Coaching:** Focus on patient impact; deduct only for process gaps that risk accuracy.  
+
+**Q:** Example of NI?  
+❌ **NI:** Fails to verify eligibility or schedules wrong time/location.
+
+---
+
+## Information Accuracy
+**Q:** What qualifies as NI?  
+❌ **NI:** Wrong info, missing details, or confusion that impacts patient understanding.  
+✅ **ME:** Clear, accurate, and confidently delivered info.  
+
+**Q:** Can clarification questions impact the score?  
+✅ **Yes:** Asking thoughtful clarifying questions often earns **ME** — it shows engagement and diligence.
+
+---
+
+## Dispositions
+**Q:** When is N/A acceptable?  
+✅ **N/A:** Technical issue or SOP explicitly excludes disposition step.  
+
+**Q:** What if agent selects disposition but wrong category?  
+❌ **NI:** Impacts data accuracy and care coordination.  
+✅ **ME:** Correct disposition matching the call’s outcome.
+
+---
+
+# 🔏 Regulatory Critical Attribute FAQ
+
+## Compliance & Auto-Fails
+**Q:** When do auto-fails apply?  
+🚨 **Always** for:  
+- Profanity  
+- Hanging up on a caller  
+- Not answering calls  
+- Providing medical advice or opinion  
+
+**Q:** What if profanity came from the patient?  
+✅ **ME:** As long as the agent remained professional and composed.  
+
+**Q:** Can an agent recover from tone issues if compliance was intact?  
+✅ **Yes,** professionalism and composure can offset tone missteps — but compliance violations are *never coachable.*
+
+---
+
+# 🧩 Evaluator Tips
+
+- **Flag edge cases for calibration:** If unsure how to apply ME/NI/N/A, tag for review in calibration or QA sync.  
+- **Use SOSA/OREO in comments:**  
+  - **Situation:** Briefly summarize the scenario.  
+  - **Observation:** Describe what was heard.  
+  - **Suggestion:** Offer actionable improvement.  
+  - **Appreciation:** Reinforce positives to end constructively.  
+- **Consistency is key:** Apply same logic across calls, ensuring fairness and alignment with QA philosophy.  
+
+---
 
 
