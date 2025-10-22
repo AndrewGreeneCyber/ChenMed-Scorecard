@@ -10,10 +10,11 @@
 **Drivers:**  
 - [ ] Fails to use approved greeting (center name or company name)  
 - [ ] Omits self-introduction/name  
-- [ ] Greets caller to incorrect Center or Company  
+- [ ] Greets caller to incorrect Center or Company
+- [ ] Answers call within 5 seconds
 
 **Scoring Definition:**  
-- **ME:** Opens with correct greeting, includes name and Center brand  
+- **ME:** Opens with correct greeting, answers call within 5 seconds, includes name and Center brand  
 - **NI:** Uses unapproved or missing greeting  
 
 </details>
