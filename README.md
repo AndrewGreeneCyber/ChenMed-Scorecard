@@ -523,5 +523,141 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Consistency is key:** Apply same logic across calls, ensuring fairness and alignment with QA philosophy.  
 
 ---
+# 🧮 Communication & Call Flow Equations
 
+---
+
+## 🧡 Greeting & Branding Equations
+
+**Equation 1:**  
+`Greeting + Self-Introduction + Center/Brand Name = Professional Start`
+
+**Equation 2:**  
+`Polite Tone + Confident Opener = Caller Feels Welcomed`
+
+**Equation 3:**  
+`“Thank you for calling [Center Name], this is [Agent Name].” + Smile in Tone = Trust Established Early`
+
+**Equation 4:**  
+`Missing Greeting OR Brand Name = Incomplete Professional Identity`
+
+---
+
+## 👥 Patient Identity Verification Equations
+
+**Equation 1:**  
+`Full Name + Date of Birth Confirmation = HIPAA Compliance`
+
+**Equation 2:**  
+`Verification Before Chart Access = Protected Patient Data`
+
+**Equation 3:**  
+`Patient Refuses + Proper Documentation = ME (Handled Correctly)`
+
+**Equation 4:**  
+`Skipped DOB + Provided Info = Compliance Breach → NI`
+
+---
+
+## 💬 Reassurance & Confirmation of Assistance Equations
+
+**Equation 1:**  
+`“I’m happy to help” + Calm Tone = Comfort + Confidence`
+
+**Equation 2:**  
+`Acknowledgment + Clear Next Step = Caller Feels Supported`
+
+**Equation 3:**  
+`Reassurance Before Action + Follow-through = High Patient Trust`
+
+**Equation 4:**  
+`Silence After Concern + No Acknowledgment = Uncertainty + Anxiety`
+
+**Equation 5:**  
+`Empathy Phrase (“I understand”) + Solution Preview (“Let’s fix that”) = Emotional Stability`
+
+---
+
+## 💼 Documentation Equations
+
+**Equation 1:**  
+`Template + Accuracy + Detail = Complete Message`
+
+**Equation 2:**  
+`Reason + Callback Number + Relationship Confirmed = Readable for Next User`
+
+**Equation 3:**  
+`Incorrect Template + Missing Details = Data Risk → NI`
+
+**Equation 4:**  
+`Verbal Confirmation + Proper Task = Care Continuity`
+
+---
+
+## 🕊️ Emotional Regulation & De-escalation Equations
+
+**Equation 1:**  
+`Patient Frustration + Calm Voice = De-escalation Start`
+
+**Equation 2:**  
+`Empathy Acknowledgment + Solution Path = Trust Restored`
+
+**Equation 3:**  
+`Raising Voice + Defensive Tone = Escalation Risk`
+
+**Equation 4:**  
+`Active Listening + Gentle Pacing + Ownership Language = Stabilized Caller`
+
+**Equation 5:**  
+`Validation (“That sounds frustrating”) + Assurance (“We’ll sort this out”) = ME`
+
+---
+
+## 🩺 Information Accuracy Equations
+
+**Equation 1:**  
+`Clarifying Questions + Correct Details = Complete Information`
+
+**Equation 2:**  
+`Paraphrasing + Confirmation (“Is that right?”) = Fewer Errors`
+
+**Equation 3:**  
+`Guessing or Skipping Clarification = Risk of Misinformation`
+
+**Equation 4:**  
+`Accurate Data + Simple Language = Patient Understanding`
+
+---
+
+## 🧏 Active Listening & Engagement Equations
+
+**Equation 1:**  
+`Patient Speaks + Full Attention = No Repetition`
+
+**Equation 2:**  
+`Acknowledgment (“I understand”) + Clarifying Question = Engagement`
+
+**Equation 3:**  
+`Distraction + Repeated Info = NI`
+
+**Equation 4:**  
+`Listening + Summarizing + Empathy = Patient Validation`
+
+---
+
+## 🔏 Compliance & Auto-Fail Equations
+
+**Equation 1:**  
+`Professionalism + No Profanity + No Medical Advice = Compliance`
+
+**Equation 2:**  
+`Call Answered + Respect Maintained = ME`
+
+**Equation 3:**  
+`Profanity or Hang-up = Auto-Fail (0%)`
+
+**Equation 4:**  
+`Policy Adherence + Calm Tone = Protected Reputation`
+
+---
 
