@@ -527,137 +527,216 @@ Agents should therefore always strive to meet expectations under this attribute 
 
 ---
 
-## 🧡 Greeting & Branding Equations
+# 🧡 Patient Critical Attributes
 
-**Equation 1:**  
-`Greeting + Self-Introduction + Center/Brand Name = Professional Start`
+<details>
+<summary>Greeting & Branding 📐 Quality Equations</summary>
 
-**Equation 2:**  
-`Polite Tone + Confident Opener = Caller Feels Welcomed`
+✅ **Equations**
+- Proper Greeting + Self-Introduction + Center Name = Professional First Impression  
+- Answer in ≤5 Seconds + Correct Brand Mention = Meets Expectation  
+- No Greeting + No Name = Needs Improvement  
+- Greeting + Name + Confirmation of Help = Trust Building  
+- Delayed Answer + Missing Brand = Reduced Professionalism  
 
-**Equation 3:**  
-`“Thank you for calling [Center Name], this is [Agent Name].” + Smile in Tone = Trust Established Early`
-
-**Equation 4:**  
-`Missing Greeting OR Brand Name = Incomplete Professional Identity`
-
----
-
-## 👥 Patient Identity Verification Equations
-
-**Equation 1:**  
-`Full Name + Date of Birth Confirmation = HIPAA Compliance`
-
-**Equation 2:**  
-`Verification Before Chart Access = Protected Patient Data`
-
-**Equation 3:**  
-`Patient Refuses + Proper Documentation = ME (Handled Correctly)`
-
-**Equation 4:**  
-`Skipped DOB + Provided Info = Compliance Breach → NI`
+</details>
 
 ---
 
-## 💬 Reassurance & Confirmation of Assistance Equations
+<details>
+<summary>Patient Identity Verification 📐 Quality Equations</summary>
 
-**Equation 1:**  
-`“I’m happy to help” + Calm Tone = Comfort + Confidence`
+✅ **Equations**
+- Confirm Name + Confirm DOB = Verified Identity  
+- Skip Verification + Share Info = HIPAA Risk  
+- Name Confirmation + Clarify Spelling = Accuracy  
+- DOB Confirmation + Secure Tone = Trust  
+- Verification + Chart Reference = Safe Disclosure  
 
-**Equation 2:**  
-`Acknowledgment + Clear Next Step = Caller Feels Supported`
-
-**Equation 3:**  
-`Reassurance Before Action + Follow-through = High Patient Trust`
-
-**Equation 4:**  
-`Silence After Concern + No Acknowledgment = Uncertainty + Anxiety`
-
-**Equation 5:**  
-`Empathy Phrase (“I understand”) + Solution Preview (“Let’s fix that”) = Emotional Stability`
+</details>
 
 ---
 
-## 💼 Documentation Equations
+<details>
+<summary>Reassurance & Confirmation of Assistance 📐 Quality Equations</summary>
 
-**Equation 1:**  
-`Template + Accuracy + Detail = Complete Message`
+✅ **Equations**
+- Offer Help + Positive Tone = Caller Confidence  
+- “I’m happy to help” + Empathy Phrase = Reassurance  
+- Caller Concern + Calm Confirmation = Emotional Stability  
+- No Reassurance + Silence = Caller Uncertainty  
+- Clarify Issue + Confirm Support = Call Control  
 
-**Equation 2:**  
-`Reason + Callback Number + Relationship Confirmed = Readable for Next User`
-
-**Equation 3:**  
-`Incorrect Template + Missing Details = Data Risk → NI`
-
-**Equation 4:**  
-`Verbal Confirmation + Proper Task = Care Continuity`
+</details>
 
 ---
 
-## 🕊️ Emotional Regulation & De-escalation Equations
+<details>
+<summary>Professionalism 📐 Quality Equations</summary>
 
-**Equation 1:**  
-`Patient Frustration + Calm Voice = De-escalation Start`
+✅ **Equations**
+- Warm Tone + Clear Pacing = Professional Delivery  
+- Calm Voice + Active Engagement = Confidence  
+- Sarcasm + Rushed Delivery = Needs Improvement  
+- Respect + Politeness = Professional Experience  
+- Interruptions – Patience = Quality Loss  
 
-**Equation 2:**  
-`Empathy Acknowledgment + Solution Path = Trust Restored`
-
-**Equation 3:**  
-`Raising Voice + Defensive Tone = Escalation Risk`
-
-**Equation 4:**  
-`Active Listening + Gentle Pacing + Ownership Language = Stabilized Caller`
-
-**Equation 5:**  
-`Validation (“That sounds frustrating”) + Assurance (“We’ll sort this out”) = ME`
+</details>
 
 ---
 
-## 🩺 Information Accuracy Equations
+<details>
+<summary>Active Listening & Engagement 📐 Quality Equations</summary>
 
-**Equation 1:**  
-`Clarifying Questions + Correct Details = Complete Information`
+✅ **Equations**
+- Full Attention + Acknowledgment = Active Listening  
+- Repetition Avoidance + Paraphrasing = Understanding  
+- Eye Contact (tone equivalent) + Patience = Caller Trust  
+- Distraction + Missed Cue = Needs Improvement  
+- Clarify + Confirm + Respond = Engaged Communication  
 
-**Equation 2:**  
-`Paraphrasing + Confirmation (“Is that right?”) = Fewer Errors`
-
-**Equation 3:**  
-`Guessing or Skipping Clarification = Risk of Misinformation`
-
-**Equation 4:**  
-`Accurate Data + Simple Language = Patient Understanding`
+</details>
 
 ---
 
-## 🧏 Active Listening & Engagement Equations
+<details>
+<summary>Holds 📐 Quality Equations</summary>
 
-**Equation 1:**  
-`Patient Speaks + Full Attention = No Repetition`
+✅ **Equations**
+- Ask Permission + Thank on Return = Positive Hold Experience  
+- Silent Hold – Acknowledgment = Caller Frustration  
+- Short Hold + Polite Return = Professionalism  
+- Explain Reason + Confirm Return = Call Control  
+- Hold Properly + Smooth Transition = Efficiency  
 
-**Equation 2:**  
-`Acknowledgment (“I understand”) + Clarifying Question = Engagement`
-
-**Equation 3:**  
-`Distraction + Repeated Info = NI`
-
-**Equation 4:**  
-`Listening + Summarizing + Empathy = Patient Validation`
+</details>
 
 ---
 
-## 🔏 Compliance & Auto-Fail Equations
+<details>
+<summary>Call Closing 📐 Quality Equations</summary>
 
-**Equation 1:**  
-`Professionalism + No Profanity + No Medical Advice = Compliance`
+✅ **Equations**
+- Summary + Next Steps = Clarity  
+- Proper Closing + Brand Mention = Professional Ending  
+- “Thank You” + Confirmation = Customer Retention  
+- Skipped Closing + Unclear Resolution = Needs Improvement  
+- Recap + Verify Understanding = Confidence in Completion  
 
-**Equation 2:**  
-`Call Answered + Respect Maintained = ME`
-
-**Equation 3:**  
-`Profanity or Hang-up = Auto-Fail (0%)`
-
-**Equation 4:**  
-`Policy Adherence + Calm Tone = Protected Reputation`
+</details>
 
 ---
 
+<details>
+<summary>Patient Empathy & VIP Experience 📐 Quality Equations</summary>
+
+✅ **Equations**
+- Emotion Recognition + Validation = Empathy  
+- Patient Name + Comfort Phrase = Personalization  
+- Concern Acknowledgment + Ownership = VIP Care  
+- Robotic Tone – Warmth = Needs Improvement  
+- Empathy + Solution Orientation = Trust & Loyalty  
+
+</details>
+
+---
+
+<details>
+<summary>Emotional Regulation & De-escalation 📐 Quality Equations</summary>
+
+✅ **Equations**
+- Calm Tone + Empathy = De-escalation  
+- Validation + Assurance = Emotional Stability  
+- Escalation Cue + Composed Response = Professional Control  
+- Matching Frustration + Raised Voice = Needs Improvement  
+- Redirect + Positive Framing = Recovery  
+
+</details>
+
+---
+
+# 💼 Business Critical Attributes
+
+<details>
+<summary>Documentation 📐 Quality Equations</summary>
+
+✅ **Equations**
+- Accurate Notes + SOP Template = Complete Message  
+- Caller Info + Call Reason + Callback # = Full Documentation  
+- Missing Template + No Summary = QA Deduction  
+- Confirmation + Accuracy = Compliance  
+- Organized Entry + Clarity = Operational Efficiency  
+
+</details>
+
+---
+
+<details>
+<summary>Transfers & Escalations 📐 Quality Equations</summary>
+
+✅ **Equations**
+- Clear Explanation + Warm Transfer = Seamless Handoff  
+- Gathered Info + Correct Department = Efficiency  
+- Cold Transfer + No Context = Poor Experience  
+- Offer Help + Explain Reason = Transparency  
+- Right Channel + Proper Tone = Smooth Escalation  
+
+</details>
+
+---
+
+<details>
+<summary>Scheduling & Coordination 📐 Quality Equations</summary>
+
+✅ **Equations**
+- Verify Info + Follow SOP = Accurate Scheduling  
+- Confirm Date + Time + Location = Complete Coordination  
+- Missed Steps + Inaccurate Info = Needs Improvement  
+- Clarify + Document + Confirm = Seamless Process  
+- Double-Check Eligibility + Confirmation = Trust  
+
+</details>
+
+---
+
+<details>
+<summary>Information Accuracy 📐 Quality Equations</summary>
+
+✅ **Equations**
+- Clarify Question + Confirm Detail = Accuracy  
+- Verified Info + Clear Delivery = Quality Communication  
+- Guesswork + No Clarification = Error Risk  
+- Transparency + Simplicity = Caller Understanding  
+- SOP + Fact Check = 100% Accuracy  
+
+</details>
+
+---
+
+<details>
+<summary>Dispositions 📐 Quality Equations</summary>
+
+✅ **Equations**
+- Correct Outcome + Matching Disposition = Accuracy  
+- Follow SOP + Confirm End Result = QA Compliance  
+- Skipped Dispo + Wrong Label = Incomplete Record  
+- Technical Error + Documentation = N/A Use  
+- Clear Resolution + Accurate Coding = Data Integrity  
+
+</details>
+
+---
+
+# 🔏 Regulatory Critical Attribute
+
+<details>
+<summary>Compliance & Auto-Fails 📐 Quality Equations</summary>
+
+✅ **Equations**
+- Professional Language + Courtesy = Compliance  
+- Answer Call + Avoid Advice = Safety  
+- Medical Opinion + Non-Clinician Role = Auto-Fail  
+- Respect + Proper Boundaries = Regulation Alignment  
+- HIPAA Awareness + Tone Control = Patient Trust  
+
+</details>
