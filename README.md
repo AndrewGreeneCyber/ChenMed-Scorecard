@@ -525,6 +525,232 @@ Agents should therefore always strive to meet expectations under this attribute 
 ---
 # 🧮 Communication & Call Flow Equations
 
+# 📐 Real-World Call Scenario Equations (3–5 per attribute)
+
+---
+
+## Greeting & Branding
+- **Patient:** (call answered)  
+  **STC:** “Thank you for calling [Center], this is [Name].” + **Action:** Answer within 5s = **Professional Start / Meets Expectation**
+
+- **Patient:** (caller begins speaking before intro)  
+  **STC:** “Hi — I’m [Name] with [Center], I’ll help you today. May I confirm who I’m speaking with?” = **Brand + Ownership**
+
+- **Patient:** “Hello?”  
+  **STC:** (No greeting) + **Action:** Jumps into question = **Needs Improvement (missing greeting/name)**
+
+- **Patient:** (call routed from different center)  
+  **STC:** “You’ve reached [Center]; I can help or connect you to [Other Center] — which do you prefer?” = **Corrects brand / clarifies routing**
+
+---
+
+## Patient Identity Verification
+- **Patient:** “This is John Smith.”  
+  **STC:** “Thanks, John — can you confirm your date of birth for security?” + **Action:** Do not access chart until confirmed = **Verified Identity / ME**
+
+- **Patient:** “I forgot my DOB.”  
+  **STC:** “No problem — can you confirm the address on file or another identifier?” + **Action:** Document attempt = **Handled per PHI SOP**
+
+- **Patient:** (agent asks chart question before verifying)  
+  **STC:** Provides info without verification = **NI (compliance risk)**
+
+- **Patient:** “I’m calling on behalf of my mom.”  
+  **STC:** “Can you confirm your relationship and authorization?” + **Action:** Record relationship/consent = **Proper caregiver verification**
+
+---
+
+## Reassurance & Confirmation of Assistance
+- **Patient:** “I need help with my meds.”  
+  **STC:** “I’m happy to help — let me pull your chart and we’ll review together.” + **Action:** Sets expectation = **Reassurance + Ownership**
+
+- **Patient:** “Will this take long?”  
+  **STC:** “It should only take a few minutes — I’ll keep you updated.” = **Clear expectation setting**
+
+- **Patient:** (explains problem)  
+  **STC:** (no acknowledgement) + **Action:** Goes silent = **NI (caller left uncertain)**
+
+- **Patient:** “Thanks, I feel better.”  
+  **STC:** “I’m glad — is there anything else I can do before we close?” = **Confirm assistance complete**
+
+---
+
+## Professionalism
+- **Patient:** (speaks over agent)  
+  **STC:** Calmly: “I hear that — let me finish so I can help you best.” + **Action:** Maintains polite tone = **Professional, ME**
+
+- **Patient:** (background noise from agent)  
+  **STC:** Background distractions audible and not addressed = **NI (impacts professionalism)**
+
+- **Patient:** “You’re wrong.”  
+  **STC:** “I understand your concern — let me find the right info for you.” + **Action:** Avoids sarcasm/defensiveness = **De-escalation + professionalism**
+
+- **Patient:** (agent uses slang/sarcasm)  
+  **STC:** “Whatever” or laughs inappropriately = **NI (unprofessional language/tone)**
+
+---
+
+## Active Listening & Engagement
+- **Patient:** “I’ve been waiting for days for this refill.”  
+  **STC:** “You’ve been waiting — I’m sorry. Let me confirm the refill status and next steps.” + **Action:** Paraphrases & asks clarifying Qs = **Active Listening / ME**
+
+- **Patient:** (gives specific time/date)  
+  **STC:** Repeats back: “So it was on June 12 at 2pm — is that right?” = **Clarify + confirmation**
+
+- **Patient:** (agent interrupts repeatedly)  
+  **STC:** Cuts off patient multiple times = **NI (missed cues / frustration)**
+
+- **Patient:** “I don’t understand that test result.”  
+  **STC:** “Let me explain that more simply — here’s what it means…” + **Action:** Uses plain language = **Engagement + empowerment**
+
+---
+
+## Holds
+- **Patient:** (during info check)  
+  **STC:** “May I place you on a brief hold while I check?” → **Patient:** “Yes” → **STC:** Thanks patient on return = **Proper Hold / ME**
+
+- **Patient:** (agent places on hold without asking)  
+  **STC:** Puts caller on hold abruptly = **NI**
+
+- **Patient:** (hold required but lengthy)  
+  **STC:** “This may take up to 3 minutes — can I place you on hold or call you back?” + **Action:** Offers alternative = **Patient-centered hold**
+
+- **Patient:** (caller returned to)  
+  **STC:** Forgetting to thank or recap after hold = **NI (missed courtesy)**
+
+---
+
+## Call Closing
+- **Patient:** (issue resolved)  
+  **STC:** “To recap, we scheduled your refill for Thursday; you’ll get a confirmation text. Is there anything else?” + **Action:** “Thank you for calling [Center].” = **Clear close + ME**
+
+- **Patient:** (no next steps given)  
+  **STC:** Ends with “bye” and no summary = **NI (unclear closure)**
+
+- **Patient:** (call dropped unexpectedly)  
+  **STC:** System disconnects mid-call = **N/A (document and try callback per SOP)**
+
+- **Patient:** (expects follow-up)  
+  **STC:** “I will follow up by EOD; you can expect a call by 5pm.” + **Action:** Sets expectation = **ME**
+
+---
+
+## Patient Empathy & VIP Experience
+- **Patient:** “I’m not feeling well and I have an important appointment tomorrow.”  
+  **STC:** “I’m so sorry you’re unwell — let me prioritize this and see how we can expedite your request.” + **Action:** Escalates or documents VIP flag = **VIP Care / ME**
+
+- **Patient:** “I’m anxious about this procedure.”  
+  **STC:** “That’s completely understandable. I’ll walk you through what to expect and note your concern for the nurse.” = **Empathy + personalization**
+
+- **Patient:** (robotic script only)  
+  **STC:** Reads strict script with flat tone = **NI (not personalized)**
+
+- **Patient:** (repeat VIP caller)  
+  **STC:** Uses name, references prior note, offers extra reassurance = **High-touch personalization / ME**
+
+---
+
+## Emotional Regulation & De-escalation
+- **Patient:** (yells) “This has been terrible!”  
+  **STC:** “I’m sorry you’ve had that experience. Let me make this right — here’s what I can do.” + **Action:** Calm tone + ownership = **De-escalation / ME**
+
+- **Patient:** (accuses agent) “You didn’t call me back!”  
+  **STC:** “I hear your frustration — let me check the notes and find the next steps.” + **Action:** No matching frustration = **Stabilizes call**
+
+- **Patient:** (continues escalating)  
+  **STC:** Matches tone or becomes defensive = **NI (escalation risk)**
+
+- **Patient:** (quiet but upset)  
+  **STC:** “I can tell this is upsetting — would it help if I summarized what I’ll do next?” = **Gentle validation + solution**
+
+---
+
+# 💼 Business Critical Attributes
+
+## Documentation
+- **Patient:** (reporting instructions)  
+  **STC:** Logs phone message with reason + callback # + relationship = **Complete Documentation / ME**
+
+- **Patient:** (agent forgets details)  
+  **STC:** Creates note missing critical call reason or callback = **NI**
+
+- **Patient:** (calls to request task)  
+  **STC:** Uses correct template + tags priority + confirms turnaround time with patient = **SOP-aligned documentation**
+
+- **Patient:** (agent documents, but wrong template)  
+  **STC:** Uses incorrect message type = **NI (routing/priority risk)**
+
+---
+
+## Transfers & Escalations
+- **Patient:** Requests specialty help  
+  **STC:** “I will warm-transfer you to [Specialty] with a brief summary — please hold.” + **Action:** Introduces caller to receiving clinician = **Warm Transfer / ME**
+
+- **Patient:** (agent transfers cold)  
+  **STC:** Puts caller through without context = **NI (bad handoff)**
+
+- **Patient:** Needs escalation but agent fails to gather info  
+  **STC:** Transfers without key details = **NI (inefficient escalation)**
+
+- **Patient:** (transfer required but system down)  
+  **STC:** Explains alternate path and documents actions = **ME (transparency + workaround)**
+
+---
+
+## Scheduling & Coordination
+- **Patient:** “I need an appointment next Tuesday.”  
+  **STC:** Confirms date/time, verifies eligibility, and enters appointment per SOP = **Accurate Scheduling / ME**
+
+- **Patient:** “Can I get transport?”  
+  **STC:** Checks Lyft/Uber or transport SOP, confirms pickup details = **Complete coordination**
+
+- **Patient:** (agent skips required verification)  
+  **STC:** Schedules without confirming eligibility = **NI**
+
+- **Patient:** (complex reschedule)  
+  **STC:** Reconfirms patient contact and follow-up instructions = **ME (clear coordination)**
+
+---
+
+## Information Accuracy
+- **Patient:** Asks about medication side effects  
+  **STC:** “I’m not a clinician — I can check the chart and schedule a clinician call, or provide the drug leaflet.” + **Action:** Avoids giving medical opinion = **Safe + accurate**
+
+- **Patient:** “When is my lab result available?”  
+  **STC:** Looks up date and confirms exactly: “Your lab posted on 10/10 and shows…” = **Accurate info / ME**
+
+- **Patient:** (agent guesses) “It should be next week” (no lookup) = **NI (avoid guessing)**
+
+- **Patient:** (agent paraphrases to confirm)  
+  **STC:** “So you mean the blood test from Oct. 1 — is that correct?” = **Confirm + accuracy**
+
+---
+
+## Dispositions
+- **Patient:** Issue resolved on call  
+  **STC:** Selects “Resolved” + documents summary = **Correct disposition / ME**
+
+- **Patient:** Needs follow-up appointment  
+  **STC:** Selects “Follow-Up Required” and adds task with ETA = **Accurate disposition**
+
+- **Patient:** Agent leaves wrong disposition (e.g., Resolved when escalation required) = **NI**
+
+- **Patient:** System outage prevents disposition  
+  **STC:** Documents in notes and flags for QA = **N/A with documentation**
+
+---
+
+# 🔏 Regulatory Critical Attribute
+
+## Compliance & Auto-Fails
+- **Patient:** Uses profanity toward agent  
+  **STC:** Remains professional, does not respond with profanity = **ME (if agent stayed professional)**
+
+- **Patient:** Asks for medical diagnosis (“What should I do?”)  
+  **STC:** “I can’t provide medical advice; I’ll connect you with a clinician or schedule a call.” + **Action:** Escalate per SOP = **Compliance maintained / ME**
+
+- **Patient:** Agent gives medical opinion or prescribes action = **Auto-Fail (NI)**
+
+- **Patient:** Agent hangs up on caller intentionally = **Auto-Fail (0%)**
 ---
 
 # 🧡 Patient Critical Attributes
