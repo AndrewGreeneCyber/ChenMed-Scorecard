@@ -539,23 +539,17 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Patient:** “Hello?”  
   **STC:** (No greeting) + **Action:** Jumps into question = **Needs Improvement (missing greeting/name)**
 
-- **Patient:** (call routed from different center)  
-  **STC:** “You’ve reached [Center]; I can help or connect you to [Other Center] — which do you prefer?” = **Corrects brand / clarifies routing**
-
 ---
 
 ## Patient Identity Verification
 - **Patient:** “This is John Smith.”  
-  **STC:** “Thanks, John — can you confirm your date of birth for security?” + **Action:** Do not access chart until confirmed = **Verified Identity / ME**
-
-- **Patient:** “I forgot my DOB.”  
-  **STC:** “No problem — can you confirm the address on file or another identifier?” + **Action:** Document attempt = **Handled per PHI SOP**
+  **STC:** “Thanks, John — can you confirm your date of birth for security?” + **Action:** Do not provide details from chart until confirmed = **Verified Identity / ME**
 
 - **Patient:** (agent asks chart question before verifying)  
   **STC:** Provides info without verification = **NI (compliance risk)**
 
 - **Patient:** “I’m calling on behalf of my mom.”  
-  **STC:** “Can you confirm your relationship and authorization?” + **Action:** Record relationship/consent = **Proper caregiver verification**
+  **STC:** “Can you confirm your mom's date of birth and full name please?” + **Action:** Record relationship = **Proper verification**
 
 ---
 
@@ -564,25 +558,20 @@ Agents should therefore always strive to meet expectations under this attribute 
   **STC:** “I’m happy to help — let me pull your chart and we’ll review together.” + **Action:** Sets expectation = **Reassurance + Ownership**
 
 - **Patient:** “Will this take long?”  
-  **STC:** “It should only take a few minutes — I’ll keep you updated.” = **Clear expectation setting**
+  **STC:** “It should only take a few minutes, I’ll keep you updated.” = **Clear expectation setting**
 
 - **Patient:** (explains problem)  
-  **STC:** (no acknowledgement) + **Action:** Goes silent = **NI (caller left uncertain)**
+  **STC:** (no acknowledgement) + **Action:** Goes silent = **Needs Improvement (caller left uncertain)**
 
-- **Patient:** “Thanks, I feel better.”  
-  **STC:** “I’m glad — is there anything else I can do before we close?” = **Confirm assistance complete**
 
 ---
 
 ## Professionalism
 - **Patient:** (speaks over agent)  
-  **STC:** Calmly: “I hear that — let me finish so I can help you best.” + **Action:** Maintains polite tone = **Professional, ME**
-
-- **Patient:** (background noise from agent)  
-  **STC:** Background distractions audible and not addressed = **NI (impacts professionalism)**
+  **STC:** Calmly: “I hear that — allow me to finish so I can help you best.” + **Action:** Maintains polite tone = **Professional, ME**
 
 - **Patient:** “You’re wrong.”  
-  **STC:** “I understand your concern — let me find the right info for you.” + **Action:** Avoids sarcasm/defensiveness = **De-escalation + professionalism**
+  **STC:** “I understand your concern, allow me to find the right info for you.” + **Action:** Avoids sarcasm/defensiveness = **De-escalation + professionalism**
 
 - **Patient:** (agent uses slang/sarcasm)  
   **STC:** “Whatever” or laughs inappropriately = **NI (unprofessional language/tone)**
@@ -591,7 +580,7 @@ Agents should therefore always strive to meet expectations under this attribute 
 
 ## Active Listening & Engagement
 - **Patient:** “I’ve been waiting for days for this refill.”  
-  **STC:** “You’ve been waiting — I’m sorry. Let me confirm the refill status and next steps.” + **Action:** Paraphrases & asks clarifying Qs = **Active Listening / ME**
+  **STC:** “You’ve been waiting and I’m sorry. Let me confirm the refill status and next steps.” + **Action:** Paraphrases & asks clarifying Qs = **Active Listening / ME**
 
 - **Patient:** (gives specific time/date)  
   **STC:** Repeats back: “So it was on June 12 at 2pm — is that right?” = **Clarify + confirmation**
@@ -599,8 +588,6 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Patient:** (agent interrupts repeatedly)  
   **STC:** Cuts off patient multiple times = **NI (missed cues / frustration)**
 
-- **Patient:** “I don’t understand that test result.”  
-  **STC:** “Let me explain that more simply — here’s what it means…” + **Action:** Uses plain language = **Engagement + empowerment**
 
 ---
 
@@ -621,7 +608,7 @@ Agents should therefore always strive to meet expectations under this attribute 
 
 ## Call Closing
 - **Patient:** (issue resolved)  
-  **STC:** “To recap, we scheduled your refill for Thursday; you’ll get a confirmation text. Is there anything else?” + **Action:** “Thank you for calling [Center].” = **Clear close + ME**
+  **STC:** “To recap, we scheduled your transportation for Thursday; you’ll get a confirmation text. Is there anything else?” + **Action:** “Thank you for calling [Center].” = **Clear close + ME**
 
 - **Patient:** (no next steps given)  
   **STC:** Ends with “bye” and no summary = **NI (unclear closure)**
@@ -629,38 +616,33 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Patient:** (call dropped unexpectedly)  
   **STC:** System disconnects mid-call = **N/A (document and try callback per SOP)**
 
-- **Patient:** (expects follow-up)  
-  **STC:** “I will follow up by EOD; you can expect a call by 5pm.” + **Action:** Sets expectation = **ME**
 
 ---
 
 ## Patient Empathy & VIP Experience
 - **Patient:** “I’m not feeling well and I have an important appointment tomorrow.”  
-  **STC:** “I’m so sorry you’re unwell — let me prioritize this and see how we can expedite your request.” + **Action:** Escalates or documents VIP flag = **VIP Care / ME**
+  **STC:** “I’m so sorry you’re unwell. Let me prioritize this and see how we can expedite your request.” + **Action:** Escalates or documents VIP flag = **VIP Care / ME**
 
 - **Patient:** “I’m anxious about this procedure.”  
   **STC:** “That’s completely understandable. I’ll walk you through what to expect and note your concern for the nurse.” = **Empathy + personalization**
 
-- **Patient:** (robotic script only)  
-  **STC:** Reads strict script with flat tone = **NI (not personalized)**
-
 - **Patient:** (repeat VIP caller)  
-  **STC:** Uses name, references prior note, offers extra reassurance = **High-touch personalization / ME**
+  **STC:** Uses name + references prior note + offers extra reassurance = **High-touch personalization / ME**
 
 ---
 
 ## Emotional Regulation & De-escalation
 - **Patient:** (yells) “This has been terrible!”  
-  **STC:** “I’m sorry you’ve had that experience. Let me make this right — here’s what I can do.” + **Action:** Calm tone + ownership = **De-escalation / ME**
+  **STC:** “I’m sorry you’ve had that experience. Let me make this right... here’s what I can do...” + **Action:** Calm tone + ownership = **De-escalation / ME**
 
 - **Patient:** (accuses agent) “You didn’t call me back!”  
-  **STC:** “I hear your frustration — let me check the notes and find the next steps.” + **Action:** No matching frustration = **Stabilizes call**
+  **STC:** “I hear your frustration, let me check the notes and find the next steps.” + **Action:** No matching frustration = **Stabilizes call**
 
 - **Patient:** (continues escalating)  
   **STC:** Matches tone or becomes defensive = **NI (escalation risk)**
 
 - **Patient:** (quiet but upset)  
-  **STC:** “I can tell this is upsetting — would it help if I summarized what I’ll do next?” = **Gentle validation + solution**
+  **STC:** “I can tell this is upsetting, would it help if I summarized what I’ll do next?” = **Gentle validation + solution**
 
 ---
 
@@ -683,7 +665,7 @@ Agents should therefore always strive to meet expectations under this attribute 
 
 ## Transfers & Escalations
 - **Patient:** Requests specialty help  
-  **STC:** “I will warm-transfer you to [Specialty] with a brief summary — please hold.” + **Action:** Introduces caller to receiving clinician = **Warm Transfer / ME**
+  **STC:** “I will transfer you to [Specialty] with a brief summary, please hold.” + **Action:** Introduces caller to receiving clinician = **Warm Transfer / ME**
 
 - **Patient:** (agent transfers cold)  
   **STC:** Puts caller through without context = **NI (bad handoff)**
@@ -691,32 +673,21 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Patient:** Needs escalation but agent fails to gather info  
   **STC:** Transfers without key details = **NI (inefficient escalation)**
 
-- **Patient:** (transfer required but system down)  
-  **STC:** Explains alternate path and documents actions = **ME (transparency + workaround)**
-
 ---
 
 ## Scheduling & Coordination
 - **Patient:** “I need an appointment next Tuesday.”  
   **STC:** Confirms date/time, verifies eligibility, and enters appointment per SOP = **Accurate Scheduling / ME**
 
-- **Patient:** “Can I get transport?”  
-  **STC:** Checks Lyft/Uber or transport SOP, confirms pickup details = **Complete coordination**
+- **Patient:** “Can I get transportation?”  
+  **STC:** Checks Lyft/Uber SOP, confirms pickup details = **Complete coordination**
 
 - **Patient:** (agent skips required verification)  
   **STC:** Schedules without confirming eligibility = **NI**
 
-- **Patient:** (complex reschedule)  
-  **STC:** Reconfirms patient contact and follow-up instructions = **ME (clear coordination)**
-
 ---
 
 ## Information Accuracy
-- **Patient:** Asks about medication side effects  
-  **STC:** “I’m not a clinician — I can check the chart and schedule a clinician call, or provide the drug leaflet.” + **Action:** Avoids giving medical opinion = **Safe + accurate**
-
-- **Patient:** “When is my lab result available?”  
-  **STC:** Looks up date and confirms exactly: “Your lab posted on 10/10 and shows…” = **Accurate info / ME**
 
 - **Patient:** (agent guesses) “It should be next week” (no lookup) = **NI (avoid guessing)**
 
@@ -726,11 +697,6 @@ Agents should therefore always strive to meet expectations under this attribute 
 ---
 
 ## Dispositions
-- **Patient:** Issue resolved on call  
-  **STC:** Selects “Resolved” + documents summary = **Correct disposition / ME**
-
-- **Patient:** Needs follow-up appointment  
-  **STC:** Selects “Follow-Up Required” and adds task with ETA = **Accurate disposition**
 
 - **Patient:** Agent leaves wrong disposition (e.g., Resolved when escalation required) = **NI**
 
@@ -966,3 +932,82 @@ Agents should therefore always strive to meet expectations under this attribute 
 - HIPAA Awareness + Tone Control = Patient Trust  
 
 </details>
+
+---
+
+# Example Additions to the CallFlow and Scripts SOP
+
+## Professionalism in Communication
+
+**Did STC maintain a professional, warm, and welcoming tone throughout the call?**  
+*(Refer to Evaluation Form Question 2.1)*
+
+### Sample Scripts
+- “Thank you for calling [Chen Senior / JenCare / Dedicated / InTune Health]. My name is [Name]. How may I assist you today?”
+- “It’s my pleasure to help you today. Let’s get started.”
+- “I’ll be happy to take care of that for you.”
+- “I appreciate your patience. Let’s work through this together.”
+- “I’m here to help however I can.”
+
+### Avoid
+- Speaking too quickly or slowly  
+- Interrupting the caller  
+- Using sarcasm or sounding rushed  
+- Dismissive phrases like “That’s not my job” or “You’ll have to call someone else”
+
+---
+
+## Active Listening & Engagement
+
+**Did STC demonstrate attentiveness and avoid requiring the caller to repeat themselves?**  
+*(Evaluation Form Question 2.2)*
+
+### Best Practices
+- Take notes during the call to avoid asking for repeated information  
+- Paraphrase or repeat back key points to confirm understanding  
+- Acknowledge the caller’s concerns before responding
+
+### Sample Scripts
+- “Just to make sure I understand, you’re calling about [summarize issue]. Is that correct?”
+- “Thank you for sharing that. Let me confirm I have everything right…”
+- “I hear that this has been frustrating for you. Let’s see how we can resolve it.”
+- “I understand you’ve already explained this. Let me take it from here.”
+
+---
+
+## Patient Empathy & VIP Experience
+
+**Did STC personalize the interaction and demonstrate empathy and compassion?**  
+*(Evaluation Form Question 2.3)*
+
+### Sample Scripts
+- “I’m so sorry you’ve had to deal with this. Let’s make sure we get it resolved today.”
+- “I completely understand how important this is to you.”
+- “You’ve been through a lot — thank you for your patience.”
+- “I’ll make this a priority and follow up to ensure it’s taken care of.”
+- “We truly value you as a patient, and I want to make sure you feel supported.”
+
+### Personalization Tips
+- Use the caller’s name naturally throughout the call  
+- Match tone and pace to the caller’s emotional state  
+- Offer reassurance and ownership of the issue
+
+---
+
+## Emotional Regulation & De-escalation
+
+**Did STC remain calm, composed, and solution-focused during emotional or escalated interactions?**  
+*(Evaluation Form Question 2.4)*
+
+### Sample Scripts
+- “I hear your frustration, and I want to help make this right.”
+- “Let’s take this one step at a time — I’m here with you.”
+- “I understand this has been upsetting. Let’s work together to find a solution.”
+- “Thank you for sharing that with me. I’m going to do everything I can to help.”
+- “I’m here to support you, and I appreciate you staying on the line with me.”
+
+### Avoid
+- Raising your voice or matching the caller’s frustration  
+- Saying “calm down” or “you’re overreacting”  
+- Ignoring emotional cues or brushing off concerns
+
