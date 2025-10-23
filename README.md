@@ -1,4 +1,131 @@
-# 🧡 Patient Critical Attributes
+# 🧩 QA Form Structure and Design Improvements Proposal
+
+## 1. Attribute and Driver Framework
+My form converts each attribute question into a written statement.  
+Under each attribute, I list the related questions as **drivers** (or **behaviors**, if preferred).  
+
+This approach makes the form easier to use, simplifies reporting, and allows feedback to be more precise.  
+In the future, if any updates are needed, we can retain the main attribute and simply revise or replace the drivers — ensuring long-term scalability and consistency.
+
+---
+
+<details>
+<summary>2️⃣ Reassurance & Issue Confirmation</summary>
+
+This attribute sets clear parameters for how reassurance should be provided during a call.  
+Specifically, it ensures that the **willingness to assist** is expressed **after confirming the issue**, but **before** giving information to resolve the caller’s concern.  
+
+✅ Strengthens trust and clarity in the interaction.  
+</details>
+
+---
+
+<details>
+<summary>3️⃣ Professionalism</summary>
+
+Created a **Professionalism** attribute that evaluates:  
+- Background noise  
+- Tone  
+- Rude or abrupt behavior  
+
+This ensures every call reflects a respectful, focused, and professional interaction.  
+</details>
+
+---
+
+<details>
+<summary>4️⃣ Patient Empathy & VIP Experience</summary>
+
+Created a **Patient Empathy & VIP Experience** attribute that measures:  
+- Tone adaptation  
+- Personalization opportunities  
+- Ownership  
+
+Focuses on how well agents tailor communication, connect with the caller, and take responsibility for resolution.  
+</details>
+
+---
+
+<details>
+<summary>5️⃣ Emotional Regulation & De-escalation</summary>
+
+Developed an **Emotional Regulation & De-escalation** attribute that addresses:  
+- Emotional adaptation  
+- Frustration acknowledgment  
+- Conflict de-escalation  
+
+Evaluates how effectively an agent manages emotions — both their own and the caller’s — to maintain calm, constructive conversations.  
+</details>
+
+---
+
+<details>
+<summary>6️⃣ Documentation: Phone Messages & Tasks</summary>
+
+Created a **Documentation** attribute for **Phone Messages and Tasks** that maintains our current standards while adding flexibility.  
+
+If a phone message or task was **not required** for the call type, it can be marked **N/A**, preventing unfair scoring deductions.  
+</details>
+
+---
+
+<details>
+<summary>7️⃣ Transfers & Escalations</summary>
+
+Consolidated **Transfers** and **Escalations** into one attribute: **Transfers and Escalations**.  
+
+- Scored **N/A** if no transfer or escalation was required.  
+- Keeps evaluations relevant and concise.  
+</details>
+
+---
+
+<details>
+<summary>8️⃣ Scheduling & Coordination</summary>
+
+Merged **Appointments, Transportation, Refills, and Referrals** into one attribute: **Scheduling & Coordination**.  
+
+- Scored when those actions are required.  
+- Mark **N/A** when not applicable.  
+
+Ensures adaptability across multiple interaction types.  
+</details>
+
+---
+
+<details>
+<summary>9️⃣ Information Accuracy</summary>
+
+Created an **Information Accuracy** attribute that ideally applies to **every interaction**.  
+
+Evaluates:  
+- Proper probing questions  
+- Accuracy of provided information  
+- Communication adjusted for the caller’s skill or comprehension level  
+</details>
+
+---
+
+<details>
+<summary>🔟 Compliance & Auto-Fails</summary>
+
+Added a **Compliance & Auto-Fails** attribute that applies to **every single call**.  
+
+- **Meets Expectations:** Agent follows all required protocols — points awarded.  
+- **Auto-Fail:** Any breach of compliance standards automatically fails the form.  
+
+Ensures accountability, consistency, and strict policy adherence.  
+</details>
+
+---
+
+### ✅ Summary
+This QA form design introduces a structured, behavior-based evaluation model that enhances clarity, fairness, and flexibility.  
+By grouping related competencies, defining N/A scenarios, and ensuring compliance consistency, it strengthens data accuracy, coaching precision, and overall quality insights.
+
+# The New ChenMed Scorecard
+
+## 🧡 Patient Critical Attributes
 
 <details>
 <summary><strong>Greeting & Branding</strong></summary>
@@ -179,7 +306,7 @@
 
 ---
 
-# 💼 Business Critical Attributes
+## 💼 Business Critical Attributes
 
 <details>
 <summary><strong>Documentation</strong></summary>
@@ -241,7 +368,7 @@
 - [ ] Skips clarifying questions for appointments/transportation/refills/referrals  
 - [ ] Does not obtained all required or needed information as required for and by procedure  
 - [ ] Incorrectly handles transportations, appointments, refills, or referrals, OR omits key steps found in corresponding SOP  
-- [ ] Fails to verify eligibility (e.g., ePrescribe check, checking appointments, checking Lyft/Uber, checking Leading Reach)  
+- [ ] Fails to verify eligibility or to use tools properly (e.g., ePrescribe check, checking appointments, checking Lyft/Uber, checking Leading Reach)  
 
 **Scoring Definition:**  
 - **ME:** Asks required questions, follows SOP, schedules accurately  
@@ -292,7 +419,7 @@
 
 ---
 
-# 🔏 Regulatory Critical Attribute
+## 🔏 Regulatory Critical Attribute
 
 <details>
 <summary><strong>Compliance & Auto-Fails</strong></summary>
