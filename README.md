@@ -37,19 +37,21 @@
 </details>
 
 <details>
-<summary><strong>Reassurance & Confirmation of Assistance</strong></summary>
+<summary><strong>Reassurance & Issue Confirmation</strong></summary>
 
 **Scoring Options:**  
 - [ ] Meets Expectation  
 - [ ] Needs Improvement  
 
 **Drivers:**  
+- [ ] Does not paraphrase reason for call back to caller.
 - [ ] Does not offer a willingness to help  
 - [ ] Reassures the caller after addressing the issues  
-- [ ] Reassures the caller before learning what the issue is  
+- [ ] Reassures the caller before learning what the issue is
+
 
 **Scoring Definition:**  
-- **ME:** Provides reassurance (e.g., “I’m happy to help”)  
+- **ME:** Paraphrase reason for call and provides reassurance (e.g., "I'll be happy to help with scheduling your transportation today.")  
 - **NI:** Skips confirmation, leaving caller uncertain  
 
 </details>
