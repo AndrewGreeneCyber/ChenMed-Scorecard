@@ -127,7 +127,7 @@ By grouping related competencies, defining N/A scenarios, and ensuring complianc
 - [ ] Fails to use approved greeting (center name or company name)  
 - [ ] Omits self-introduction/name  
 - [ ] Greets caller to incorrect Center or Company
-- [ ] Answers call within 5 seconds
+- [ ] Answers call within 10 seconds
 
 **Scoring Definition:**  
 - **ME:** Opens with correct greeting, answers call within 5 seconds, includes name and Center brand  
@@ -629,22 +629,10 @@ Agents should therefore always strive to meet expectations under this attribute 
 **Q:** Can an agent recover from tone issues if compliance was intact?  
 ✅ **Yes,** professionalism and composure can offset tone missteps — but compliance violations are *never coachable.*
 
----
-
-# 🧩 Evaluator Tips
-
-- **Flag edge cases for calibration:** If unsure how to apply ME/NI/N/A, tag for review in calibration or QA sync.  
-- **Use SOSA/OREO in comments:**  
-  - **Situation:** Briefly summarize the scenario.  
-  - **Observation:** Describe what was heard.  
-  - **Suggestion:** Offer actionable improvement.  
-  - **Appreciation:** Reinforce positives to end constructively.  
-- **Consistency is key:** Apply same logic across calls, ensuring fairness and alignment with QA philosophy.  
+--- 
 
 ---
 # 🧮 Communication & Call Flow Equations
-
-# 📐 Real-World Call Scenario Equations (3–5 per attribute)
 
 ---
 
@@ -655,17 +643,11 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Patient:** (caller begins speaking before intro)  
   **STC:** “Hi — I’m [Name] with [Center], I’ll help you today. May I confirm who I’m speaking with?” = **Brand + Ownership**
 
-- **Patient:** “Hello?”  
-  **STC:** (No greeting) + **Action:** Jumps into question = **Needs Improvement (missing greeting/name)**
-
 ---
 
 ## Patient Identity Verification
 - **Patient:** “This is John Smith.”  
   **STC:** “Thanks, John — can you confirm your date of birth for security?” + **Action:** Do not provide details from chart until confirmed = **Verified Identity / ME**
-
-- **Patient:** (agent asks chart question before verifying)  
-  **STC:** Provides info without verification = **NI (compliance risk)**
 
 - **Patient:** “I’m calling on behalf of my mom.”  
   **STC:** “Can you confirm your mom's date of birth and full name please?” + **Action:** Record relationship = **Proper verification**
@@ -674,14 +656,7 @@ Agents should therefore always strive to meet expectations under this attribute 
 
 ## Reassurance & Confirmation of Assistance
 - **Patient:** “I need help with my meds.”  
-  **STC:** “I’m happy to help — let me pull your chart and we’ll review together.” + **Action:** Sets expectation = **Reassurance + Ownership**
-
-- **Patient:** “Will this take long?”  
-  **STC:** “It should only take a few minutes, I’ll keep you updated.” = **Clear expectation setting**
-
-- **Patient:** (explains problem)  
-  **STC:** (no acknowledgement) + **Action:** Goes silent = **Needs Improvement (caller left uncertain)**
-
+  **STC:** “I understand that you need assistance with your meds + I’m happy to help, let me pull your chart and we’ll review together.” + **Action:** Sets expectation = **Reassurance + Ownership**
 
 ---
 
@@ -692,8 +667,6 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Patient:** “You’re wrong.”  
   **STC:** “I understand your concern, allow me to find the right info for you.” + **Action:** Avoids sarcasm/defensiveness = **De-escalation + professionalism**
 
-- **Patient:** (agent uses slang/sarcasm)  
-  **STC:** “Whatever” or laughs inappropriately = **NI (unprofessional language/tone)**
 
 ---
 
@@ -704,9 +677,6 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Patient:** (gives specific time/date)  
   **STC:** Repeats back: “So it was on June 12 at 2pm — is that right?” = **Clarify + confirmation**
 
-- **Patient:** (agent interrupts repeatedly)  
-  **STC:** Cuts off patient multiple times = **NI (missed cues / frustration)**
-
 
 ---
 
@@ -714,26 +684,14 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Patient:** (during info check)  
   **STC:** “May I place you on a brief hold while I check?” → **Patient:** “Yes” → **STC:** Thanks patient on return = **Proper Hold / ME**
 
-- **Patient:** (agent places on hold without asking)  
-  **STC:** Puts caller on hold abruptly = **NI**
-
 - **Patient:** (hold required but lengthy)  
   **STC:** “This may take up to 3 minutes — can I place you on hold or call you back?” + **Action:** Offers alternative = **Patient-centered hold**
-
-- **Patient:** (caller returned to)  
-  **STC:** Forgetting to thank or recap after hold = **NI (missed courtesy)**
 
 ---
 
 ## Call Closing
 - **Patient:** (issue resolved)  
   **STC:** “To recap, we scheduled your transportation for Thursday; you’ll get a confirmation text. Is there anything else?” + **Action:** “Thank you for calling [Center].” = **Clear close + ME**
-
-- **Patient:** (no next steps given)  
-  **STC:** Ends with “bye” and no summary = **NI (unclear closure)**
-
-- **Patient:** (call dropped unexpectedly)  
-  **STC:** System disconnects mid-call = **N/A (document and try callback per SOP)**
 
 
 ---
@@ -768,17 +726,9 @@ Agents should therefore always strive to meet expectations under this attribute 
 # 💼 Business Critical Attributes
 
 ## Documentation
-- **Patient:** (reporting instructions)  
-  **STC:** Logs phone message with reason + callback # + relationship = **Complete Documentation / ME**
+- **Patient:** (requesting refill)  
+  **STC:** Logs phone message with reason + callback # + relationship + correct template + pertinate and accurate details = **Complete Documentation / ME**
 
-- **Patient:** (agent forgets details)  
-  **STC:** Creates note missing critical call reason or callback = **NI**
-
-- **Patient:** (calls to request task)  
-  **STC:** Uses correct template + tags priority + confirms turnaround time with patient = **SOP-aligned documentation**
-
-- **Patient:** (agent documents, but wrong template)  
-  **STC:** Uses incorrect message type = **NI (routing/priority risk)**
 
 ---
 
@@ -786,11 +736,6 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Patient:** Requests specialty help  
   **STC:** “I will transfer you to [Specialty] with a brief summary, please hold.” + **Action:** Introduces caller to receiving clinician = **Warm Transfer / ME**
 
-- **Patient:** (agent transfers cold)  
-  **STC:** Puts caller through without context = **NI (bad handoff)**
-
-- **Patient:** Needs escalation but agent fails to gather info  
-  **STC:** Transfers without key details = **NI (inefficient escalation)**
 
 ---
 
@@ -801,26 +746,13 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Patient:** “Can I get transportation?”  
   **STC:** Checks Lyft/Uber SOP, confirms pickup details = **Complete coordination**
 
-- **Patient:** (agent skips required verification)  
-  **STC:** Schedules without confirming eligibility = **NI**
 
 ---
 
 ## Information Accuracy
 
-- **Patient:** (agent guesses) “It should be next week” (no lookup) = **NI (avoid guessing)**
-
 - **Patient:** (agent paraphrases to confirm)  
-  **STC:** “So you mean the blood test from Oct. 1 — is that correct?” = **Confirm + accuracy**
-
----
-
-## Dispositions
-
-- **Patient:** Agent leaves wrong disposition (e.g., Resolved when escalation required) = **NI**
-
-- **Patient:** System outage prevents disposition  
-  **STC:** Documents in notes and flags for QA = **N/A with documentation**
+  **STC:** “So you mean the appointment on Oct. 1 — is that correct?” = **Confirm + accuracy**
 
 ---
 
@@ -833,9 +765,6 @@ Agents should therefore always strive to meet expectations under this attribute 
 - **Patient:** Asks for medical diagnosis (“What should I do?”)  
   **STC:** “I can’t provide medical advice; I’ll connect you with a clinician or schedule a call.” + **Action:** Escalate per SOP = **Compliance maintained / ME**
 
-- **Patient:** Agent gives medical opinion or prescribes action = **Auto-Fail (NI)**
-
-- **Patient:** Agent hangs up on caller intentionally = **Auto-Fail (0%)**
 ---
 
 # 🧡 Patient Critical Attributes
@@ -845,7 +774,7 @@ Agents should therefore always strive to meet expectations under this attribute 
 
 ✅ **Equations**
 - Proper Greeting + Self-Introduction + Center Name = Professional First Impression  
-- Answer in ≤5 Seconds + Correct Brand Mention = Meets Expectation  
+- Answer in ≤10 Seconds + Correct Brand Mention = Meets Expectation  
 - No Greeting + No Name = Needs Improvement  
 - Greeting + Name + Confirmation of Help = Trust Building  
 - Delayed Answer + Missing Brand = Reduced Professionalism  
