@@ -293,7 +293,7 @@ By grouping related competencies, defining N/A scenarios, and ensuring complianc
 </details>
 
 <details>
-<summary><strong>PIN Verification & Symptom Inquiry</strong></summary>
+<summary><strong>PIN Verification</strong></summary>
 
 **Scoring Options:**  
 - [ ] Meets Expectation  
