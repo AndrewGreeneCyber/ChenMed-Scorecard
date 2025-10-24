@@ -634,140 +634,49 @@ Agents should therefore always strive to meet expectations under this attribute 
 ---
 # 🧮 Communication & Call Flow Equations
 
----
+| Category | Patient Statement | STC Response | Action/Outcome |
+|---------|-------------------|--------------|----------------|
+| **Greeting & Branding** | (call answered) | “Thank you for calling [Center], this is [Name].” | Answer within 5s = Professional Start / ME |
+|  | (caller begins speaking before intro) | “Hi — I’m [Name] with [Center], I’ll help you today. May I confirm who I’m speaking with?” | Brand + Ownership |
+| **Patient Identity Verification** | “This is John Smith.” | “Thanks, John — can you confirm your date of birth for security?” | Do not provide chart details until confirmed = Verified Identity / ME |
+|  | “I’m calling on behalf of my mom.” | “Can you confirm your mom's date of birth and full name please?” | Record relationship = Proper verification |
+| **Reassurance & Confirmation of Assistance** | “I need help with my meds.” | “I understand that you need assistance with your meds + I’m happy to help, let me pull your chart and we’ll review together.” | Sets expectation = Reassurance + Ownership |
+| **Professionalism** | (speaks over agent) | “I hear that — allow me to finish so I can help you best.” | Maintains polite tone = Professional / ME |
+|  | “You’re wrong.” | “I understand your concern, allow me to find the right info for you.” | Avoids sarcasm/defensiveness = De-escalation + professionalism |
+| **Active Listening & Engagement** | “I’ve been waiting for days for this refill.” | “You’ve been waiting and I’m sorry. Let me confirm the refill status and next steps.” | Paraphrases & asks clarifying Qs = Active Listening / ME |
+|  | (gives specific time/date) | “So it was on June 12 at 2pm — is that right?” | Clarify + confirmation |
+| **Holds** | (during info check) | “May I place you on a brief hold while I check?” → “Yes” → “Thanks for waiting.” | Proper Hold / ME |
+|  | (hold required but lengthy) | “This may take up to 3 minutes — can I place you on hold or call you back?” | Offers alternative = Patient-centered hold |
+| **Call Closing** | (issue resolved) | “To recap, we scheduled your transportation for Thursday; you’ll get a confirmation text. Is there anything else?” → “Thank you for calling [Center].” | Clear close + ME |
+| **Patient Empathy & VIP Experience** | “I’m not feeling well and I have an important appointment tomorrow.” | “I’m so sorry you’re unwell. Let me prioritize this and see how we can expedite your request.” | Escalates or documents VIP flag = VIP Care / ME |
+|  | “I’m anxious about this procedure.” | “That’s completely understandable. I’ll walk you through what to expect and note your concern for the nurse.” | Empathy + personalization |
+|  | (repeat VIP caller) | Uses name + references prior note + offers extra reassurance | High-touch personalization / ME |
+| **Emotional Regulation & De-escalation** | (yells) “This has been terrible!” | “I’m sorry you’ve had that experience. Let me make this right... here’s what I can do...” | Calm tone + ownership = De-escalation / ME |
+|  | “You didn’t call me back!” | “I hear your frustration, let me check the notes and find the next steps.” | No matching frustration = Stabilizes call |
+|  | (continues escalating) | Matches tone or becomes defensive | NI (escalation risk) |
+|  | (quiet but upset) | “I can tell this is upsetting, would it help if I summarized what I’ll do next?” | Gentle validation + solution |
 
-## Greeting & Branding
-- **Patient:** (call answered)  
-  **STC:** “Thank you for calling [Center], this is [Name].” + **Action:** Answer within 5s = **Professional Start / Meets Expectation**
+## 💼 Business Critical Attributes
 
-- **Patient:** (caller begins speaking before intro)  
-  **STC:** “Hi — I’m [Name] with [Center], I’ll help you today. May I confirm who I’m speaking with?” = **Brand + Ownership**
+| Category | Patient Statement | STC Response | Action/Outcome |
+|---------|-------------------|--------------|----------------|
+| **Documentation** | (requesting refill) | Logs phone message with reason + callback # + relationship + correct template + accurate details | Complete Documentation / ME |
+| **Transfers & Escalations** | Requests specialty help | “I will transfer you to [Specialty] with a brief summary, please hold.” | Introduces caller to receiving clinician = Warm Transfer / ME |
+| **Scheduling & Coordination** | “I need an appointment next Tuesday.” | Confirms date/time, verifies eligibility, and enters appointment per SOP | Accurate Scheduling / ME |
+|  | “Can I get transportation?” | Checks Lyft/Uber SOP, confirms pickup details | Complete coordination |
+| **Information Accuracy** | (agent paraphrases to confirm) | “So you mean the appointment on Oct. 1 — is that correct?” | Confirm + accuracy |
 
----
+## 🔏 Regulatory Critical Attribute
 
-## Patient Identity Verification
-- **Patient:** “This is John Smith.”  
-  **STC:** “Thanks, John — can you confirm your date of birth for security?” + **Action:** Do not provide details from chart until confirmed = **Verified Identity / ME**
-
-- **Patient:** “I’m calling on behalf of my mom.”  
-  **STC:** “Can you confirm your mom's date of birth and full name please?” + **Action:** Record relationship = **Proper verification**
-
----
-
-## Reassurance & Confirmation of Assistance
-- **Patient:** “I need help with my meds.”  
-  **STC:** “I understand that you need assistance with your meds + I’m happy to help, let me pull your chart and we’ll review together.” + **Action:** Sets expectation = **Reassurance + Ownership**
-
----
-
-## Professionalism
-- **Patient:** (speaks over agent)  
-  **STC:** Calmly: “I hear that — allow me to finish so I can help you best.” + **Action:** Maintains polite tone = **Professional, ME**
-
-- **Patient:** “You’re wrong.”  
-  **STC:** “I understand your concern, allow me to find the right info for you.” + **Action:** Avoids sarcasm/defensiveness = **De-escalation + professionalism**
-
-
----
-
-## Active Listening & Engagement
-- **Patient:** “I’ve been waiting for days for this refill.”  
-  **STC:** “You’ve been waiting and I’m sorry. Let me confirm the refill status and next steps.” + **Action:** Paraphrases & asks clarifying Qs = **Active Listening / ME**
-
-- **Patient:** (gives specific time/date)  
-  **STC:** Repeats back: “So it was on June 12 at 2pm — is that right?” = **Clarify + confirmation**
-
+| Category | Patient Statement | STC Response | Action/Outcome |
+|---------|-------------------|--------------|----------------|
+| **Compliance & Auto-Fails** | Uses profanity toward agent | Remains professional, does not respond with profanity | ME (if agent stayed professional) |
+|  | Asks for medical diagnosis (“What should I do?”) | “I can’t provide medical advice; I’ll connect you with a clinician or schedule a call.” | Escalate per SOP = Compliance maintained / ME |
 
 ---
+# Alternative Few Words Equations
 
-## Holds
-- **Patient:** (during info check)  
-  **STC:** “May I place you on a brief hold while I check?” → **Patient:** “Yes” → **STC:** Thanks patient on return = **Proper Hold / ME**
-
-- **Patient:** (hold required but lengthy)  
-  **STC:** “This may take up to 3 minutes — can I place you on hold or call you back?” + **Action:** Offers alternative = **Patient-centered hold**
-
----
-
-## Call Closing
-- **Patient:** (issue resolved)  
-  **STC:** “To recap, we scheduled your transportation for Thursday; you’ll get a confirmation text. Is there anything else?” + **Action:** “Thank you for calling [Center].” = **Clear close + ME**
-
-
----
-
-## Patient Empathy & VIP Experience
-- **Patient:** “I’m not feeling well and I have an important appointment tomorrow.”  
-  **STC:** “I’m so sorry you’re unwell. Let me prioritize this and see how we can expedite your request.” + **Action:** Escalates or documents VIP flag = **VIP Care / ME**
-
-- **Patient:** “I’m anxious about this procedure.”  
-  **STC:** “That’s completely understandable. I’ll walk you through what to expect and note your concern for the nurse.” = **Empathy + personalization**
-
-- **Patient:** (repeat VIP caller)  
-  **STC:** Uses name + references prior note + offers extra reassurance = **High-touch personalization / ME**
-
----
-
-## Emotional Regulation & De-escalation
-- **Patient:** (yells) “This has been terrible!”  
-  **STC:** “I’m sorry you’ve had that experience. Let me make this right... here’s what I can do...” + **Action:** Calm tone + ownership = **De-escalation / ME**
-
-- **Patient:** (accuses agent) “You didn’t call me back!”  
-  **STC:** “I hear your frustration, let me check the notes and find the next steps.” + **Action:** No matching frustration = **Stabilizes call**
-
-- **Patient:** (continues escalating)  
-  **STC:** Matches tone or becomes defensive = **NI (escalation risk)**
-
-- **Patient:** (quiet but upset)  
-  **STC:** “I can tell this is upsetting, would it help if I summarized what I’ll do next?” = **Gentle validation + solution**
-
----
-
-# 💼 Business Critical Attributes
-
-## Documentation
-- **Patient:** (requesting refill)  
-  **STC:** Logs phone message with reason + callback # + relationship + correct template + pertinate and accurate details = **Complete Documentation / ME**
-
-
----
-
-## Transfers & Escalations
-- **Patient:** Requests specialty help  
-  **STC:** “I will transfer you to [Specialty] with a brief summary, please hold.” + **Action:** Introduces caller to receiving clinician = **Warm Transfer / ME**
-
-
----
-
-## Scheduling & Coordination
-- **Patient:** “I need an appointment next Tuesday.”  
-  **STC:** Confirms date/time, verifies eligibility, and enters appointment per SOP = **Accurate Scheduling / ME**
-
-- **Patient:** “Can I get transportation?”  
-  **STC:** Checks Lyft/Uber SOP, confirms pickup details = **Complete coordination**
-
-
----
-
-## Information Accuracy
-
-- **Patient:** (agent paraphrases to confirm)  
-  **STC:** “So you mean the appointment on Oct. 1 — is that correct?” = **Confirm + accuracy**
-
----
-
-# 🔏 Regulatory Critical Attribute
-
-## Compliance & Auto-Fails
-- **Patient:** Uses profanity toward agent  
-  **STC:** Remains professional, does not respond with profanity = **ME (if agent stayed professional)**
-
-- **Patient:** Asks for medical diagnosis (“What should I do?”)  
-  **STC:** “I can’t provide medical advice; I’ll connect you with a clinician or schedule a call.” + **Action:** Escalate per SOP = **Compliance maintained / ME**
-
----
-
-# 🧡 Patient Critical Attributes
+## 🧡 Patient Critical Attributes
 
 <details>
 <summary>Greeting & Branding 📐 Quality Equations</summary>
@@ -895,7 +804,7 @@ Agents should therefore always strive to meet expectations under this attribute 
 
 ---
 
-# 💼 Business Critical Attributes
+## 💼 Business Critical Attributes
 
 <details>
 <summary>Documentation 📐 Quality Equations</summary>
@@ -967,7 +876,7 @@ Agents should therefore always strive to meet expectations under this attribute 
 
 ---
 
-# 🔏 Regulatory Critical Attribute
+## 🔏 Regulatory Critical Attribute
 
 <details>
 <summary>Compliance & Auto-Fails 📐 Quality Equations</summary>
@@ -983,7 +892,7 @@ Agents should therefore always strive to meet expectations under this attribute 
 
 ---
 
-# Example Additions to the CallFlow and Scripts SOP
+# Example Additions to the Call Flow and Scripts SOP
 
 ## Professionalism in Communication
 
@@ -1083,12 +992,6 @@ This document outlines best practices for STCs to deliver exceptional support to
 - **Service Team Coordinator**: Maintain professionalism, empathy, and attentiveness in all patient interactions.  
 - **Team Lead/Supervisor**: Reinforce expectations and provide coaching on communication standards.  
 - **Training and Quality Specialist**: Deliver ongoing training and monitor adherence to communication protocols.
----
-
-# VIP PATIENT SUPPORT SOP  
-**Property of Dedicated**  
-**Page 2 of 10**  
-**Top of the Document**
 
 ## Revision History  
 
@@ -1096,11 +999,6 @@ This document outlines best practices for STCs to deliver exceptional support to
 |---------|------------|------------------------|------------------------|
 | 1       | 10/23/2025 | Initial Release        | Training & Quality Team |
 ---
-
-# VIP PATIENT SUPPORT SOP  
-**Property of Dedicated**  
-**Page 3 of 10**  
-**Top of the Document**
 
 ## 1. Professionalism in Communication
 
@@ -1121,11 +1019,6 @@ STCs must maintain a warm, welcoming, and professional tone throughout every cal
 - Dismissive phrases like “That’s not my job” or “You’ll have to call someone else”
 ---
 
-# VIP PATIENT SUPPORT SOP  
-**Property of Dedicated**  
-**Page 4 of 10**  
-**Top of the Document**
-
 ## 2. Active Listening & Engagement
 
 ### Expectations  
@@ -1142,11 +1035,6 @@ STCs must demonstrate attentiveness and avoid requiring the caller to repeat the
 - “I hear that this has been frustrating for you. Let’s see how we can resolve it.”  
 - “I understand you’ve already explained this. Let me take it from here.”
 ---
-
-# VIP PATIENT SUPPORT SOP  
-**Property of Dedicated**  
-**Page 5 of 10**  
-**Top of the Document**
 
 ## 3. Patient Empathy & VIP Experience
 
@@ -1166,11 +1054,6 @@ STCs must personalize the interaction and demonstrate empathy and compassion.
 - Offer reassurance and ownership of the issue
 ---
 
-# VIP PATIENT SUPPORT SOP  
-**Property of Dedicated**  
-**Page 6 of 10**  
-**Top of the Document**
-
 ## 4. Emotional Regulation & De-escalation
 
 ### Expectations  
@@ -1189,11 +1072,6 @@ STCs must remain calm, composed, and solution-focused during emotional or escala
 - Ignoring emotional cues or brushing off concerns
 ---
 
-# VIP PATIENT SUPPORT SOP  
-**Property of Dedicated**  
-**Page 7 of 10**  
-**Top of the Document**
-
 ## 5. Ownership & Follow-Through
 
 ### Expectations  
@@ -1211,11 +1089,6 @@ STCs must take ownership of the issue and ensure appropriate follow-up.
 - “I’ve documented everything here so your care team has full visibility.”
 ---
 
-# VIP PATIENT SUPPORT SOP  
-**Property of Dedicated**  
-**Page 8 of 10**  
-**Top of the Document**
-
 ## 6. Tone Matching & Sensitivity
 
 ### Expectations  
@@ -1232,11 +1105,6 @@ STCs must adjust tone and pace to meet the emotional needs of the caller.
 - “Let’s make sure you feel confident about what happens next.”
 ---
 
-# VIP PATIENT SUPPORT SOP  
-**Property of Dedicated**  
-**Page 9 of 10**  
-**Top of the Document**
-
 ## 7. Common Pitfalls to Avoid
 
 ### Communication Pitfalls  
@@ -1250,11 +1118,6 @@ STCs must adjust tone and pace to meet the emotional needs of the caller.
 - Missing follow-up or escalation steps  
 - Failing to confirm resolution or next steps with the caller
 ---
-
-# VIP PATIENT SUPPORT SOP  
-**Property of Dedicated**  
-**Page 10 of 10**  
-**Top of the Document**
 
 ## Final Reminders
 
