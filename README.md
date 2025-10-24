@@ -12,7 +12,7 @@ In the future, if any updates are needed, we can retain the main attribute and s
 ## 2️⃣ Reassurance & Issue Confirmation
 
 This attribute sets clear parameters for how reassurance should be provided during a call.  
-Specifically, it ensures that the **willingness to assist** is expressed **after confirming the issue**, but **before** giving information to resolve the caller’s concern.  
+Specifically, it ensures that the **willingness to assist** is expressed **after confirming the issue**, but **before** giving information to resolve the caller’s concern. It also introduces a paraphrase requirement.  
 
 ✅ Strengthens trust and clarity in the interaction.  
 
