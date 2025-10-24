@@ -573,6 +573,21 @@ Agents should therefore always strive to meet expectations under this attribute 
 **Q:** What does successful de-escalation sound like?  
 ✅ **ME:** “I completely understand how frustrating that must be. Let’s take care of this together.”
 
+## PIN Verification 
+
+**Q: What if the STC asked only some of the PIN questions?**  
+⚠️ **NI:** All four required PIN questions (*What are you feeling? How long has this been going on? Are you feeling this right now? Are you feeling anything else currently?*) must be asked to ensure accurate symptom documentation. Missing one or more results in Needs Improvement.  
+
+**Q: What if the patient provides the information voluntarily before being asked?**  
+✅ **ME:** If the patient proactively answers one or more PIN questions unprompted and the STC acknowledges, confirms, and documents the details accurately.  
+💡 **Tip:** Encourage the STC to still restate or confirm each response to validate clarity and ensure all required data points are covered.  
+
+**Q: What if the STC enters responses in the system but did not verbally ask the questions?**  
+🚫 **NI:** Entering responses without verbal inquiry is non-compliant and considered inaccurate documentation. All questions must be **verbally verified** before entry.  
+
+**Q: When is N/A appropriate for this attribute?**  
+✅ **N/A:** Only when the call is purely administrative or transactional (e.g., scheduling, benefits inquiry, or general information) where no symptom or PIN-related inquiry applies.  
+
 ---
 
 # 💼 Business Critical Attributes FAQ
