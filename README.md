@@ -1059,3 +1059,208 @@ Agents should therefore always strive to meet expectations under this attribute 
 - Saying “calm down” or “you’re overreacting”  
 - Ignoring emotional cues or brushing off concerns
 
+---
+---
+
+# VIP PATIENT SUPPORT SOP (Example)
+
+**Property of Dedicated**  
+**Page 1 of 10**  
+**Top of the Document**
+
+## Purpose  
+To establish expectations for Service Team Coordinators (STCs) when supporting VIP patients, ensuring every interaction reflects professionalism, empathy, and a high standard of customer service.
+
+## Scope  
+This document outlines best practices for STCs to deliver exceptional support to VIP patients across all ChenMed brands, including Chen Senior, JenCare, Dedicated, and InTune Health.
+
+## Definitions  
+- **VIP Patient**: Any patient requiring elevated sensitivity, personalization, or priority due to medical, emotional, or service-related needs.  
+- **STC**: Service Team Coordinator  
+- **Call Interaction**: Any inbound or outbound phone communication between an STC and a patient or caregiver.
+
+## Responsibilities  
+- **Service Team Coordinator**: Maintain professionalism, empathy, and attentiveness in all patient interactions.  
+- **Team Lead/Supervisor**: Reinforce expectations and provide coaching on communication standards.  
+- **Training and Quality Specialist**: Deliver ongoing training and monitor adherence to communication protocols.
+---
+
+# VIP PATIENT SUPPORT SOP  
+**Property of Dedicated**  
+**Page 2 of 10**  
+**Top of the Document**
+
+## Revision History  
+
+| Version | Date       | Description of Change | Revised By             |
+|---------|------------|------------------------|------------------------|
+| 1       | 10/23/2025 | Initial Release        | Training & Quality Team |
+---
+
+# VIP PATIENT SUPPORT SOP  
+**Property of Dedicated**  
+**Page 3 of 10**  
+**Top of the Document**
+
+## 1. Professionalism in Communication
+
+### Expectations  
+STCs must maintain a warm, welcoming, and professional tone throughout every call.
+
+### Sample Scripts  
+- “Thank you for calling [Chen Senior / JenCare / Dedicated / InTune Health]. My name is [Name]. How may I assist you today?”  
+- “It’s my pleasure to help you today. Let’s get started.”  
+- “I’ll be happy to take care of that for you.”  
+- “I appreciate your patience. Let’s work through this together.”  
+- “I’m here to help however I can.”
+
+### Avoid  
+- Speaking too quickly or slowly  
+- Interrupting the caller  
+- Using sarcasm or sounding rushed  
+- Dismissive phrases like “That’s not my job” or “You’ll have to call someone else”
+---
+
+# VIP PATIENT SUPPORT SOP  
+**Property of Dedicated**  
+**Page 4 of 10**  
+**Top of the Document**
+
+## 2. Active Listening & Engagement
+
+### Expectations  
+STCs must demonstrate attentiveness and avoid requiring the caller to repeat themselves.
+
+### Best Practices  
+- Take notes during the call to avoid repetition  
+- Paraphrase or repeat back key points to confirm understanding  
+- Acknowledge the caller’s concerns before responding
+
+### Sample Scripts  
+- “Just to make sure I understand, you’re calling about [summarize issue]. Is that correct?”  
+- “Thank you for sharing that. Let me confirm I have everything right…”  
+- “I hear that this has been frustrating for you. Let’s see how we can resolve it.”  
+- “I understand you’ve already explained this. Let me take it from here.”
+---
+
+# VIP PATIENT SUPPORT SOP  
+**Property of Dedicated**  
+**Page 5 of 10**  
+**Top of the Document**
+
+## 3. Patient Empathy & VIP Experience
+
+### Expectations  
+STCs must personalize the interaction and demonstrate empathy and compassion.
+
+### Sample Scripts  
+- “I’m so sorry you’ve had to deal with this. Let’s make sure we get it resolved today.”  
+- “I completely understand how important this is to you.”  
+- “You’ve been through a lot — thank you for your patience.”  
+- “I’ll make this a priority and follow up to ensure it’s taken care of.”  
+- “We truly value you as a patient, and I want to make sure you feel supported.”
+
+### Personalization Tips  
+- Use the caller’s name naturally throughout the call  
+- Match tone and pace to the caller’s emotional state  
+- Offer reassurance and ownership of the issue
+---
+
+# VIP PATIENT SUPPORT SOP  
+**Property of Dedicated**  
+**Page 6 of 10**  
+**Top of the Document**
+
+## 4. Emotional Regulation & De-escalation
+
+### Expectations  
+STCs must remain calm, composed, and solution-focused during emotional or escalated interactions.
+
+### Sample Scripts  
+- “I hear your frustration, and I want to help make this right.”  
+- “Let’s take this one step at a time — I’m here with you.”  
+- “I understand this has been upsetting. Let’s work together to find a solution.”  
+- “Thank you for sharing that with me. I’m going to do everything I can to help.”  
+- “I’m here to support you, and I appreciate you staying on the line with me.”
+
+### Avoid  
+- Raising your voice or matching the caller’s frustration  
+- Saying “calm down” or “you’re overreacting”  
+- Ignoring emotional cues or brushing off concerns
+---
+
+# VIP PATIENT SUPPORT SOP  
+**Property of Dedicated**  
+**Page 7 of 10**  
+**Top of the Document**
+
+## 5. Ownership & Follow-Through
+
+### Expectations  
+STCs must take ownership of the issue and ensure appropriate follow-up.
+
+### Best Practices  
+- Clearly communicate next steps to the caller  
+- Set realistic expectations for resolution timelines  
+- Document the interaction thoroughly in Dash  
+- Notify appropriate team members when escalation or follow-up is needed
+
+### Sample Scripts  
+- “I’ll make sure this is routed to the right team and follow up as needed.”  
+- “You’ll receive a call back within [timeframe]. If anything changes, I’ll let you know.”  
+- “I’ve documented everything here so your care team has full visibility.”
+---
+
+# VIP PATIENT SUPPORT SOP  
+**Property of Dedicated**  
+**Page 8 of 10**  
+**Top of the Document**
+
+## 6. Tone Matching & Sensitivity
+
+### Expectations  
+STCs must adjust tone and pace to meet the emotional needs of the caller.
+
+### Best Practices  
+- Speak gently and slowly when the caller is upset or overwhelmed  
+- Use positive reinforcement when the caller is anxious or uncertain  
+- Avoid robotic or overly scripted responses
+
+### Sample Scripts  
+- “You’re doing the right thing by calling — let’s take care of this together.”  
+- “I’m here with you every step of the way.”  
+- “Let’s make sure you feel confident about what happens next.”
+---
+
+# VIP PATIENT SUPPORT SOP  
+**Property of Dedicated**  
+**Page 9 of 10**  
+**Top of the Document**
+
+## 7. Common Pitfalls to Avoid
+
+### Communication Pitfalls  
+- Sounding rushed or distracted  
+- Overusing scripts without personalization  
+- Failing to acknowledge patient emotion or urgency  
+- Redirecting the caller without offering help
+
+### Service Pitfalls  
+- Not documenting key details in Dash  
+- Missing follow-up or escalation steps  
+- Failing to confirm resolution or next steps with the caller
+---
+
+# VIP PATIENT SUPPORT SOP  
+**Property of Dedicated**  
+**Page 10 of 10**  
+**Top of the Document**
+
+## Final Reminders
+
+- Every patient deserves to feel heard, respected, and supported.  
+- VIP support is not about special treatment, it’s about intentional care, emotional awareness, and clear communication.  
+- STCs are the voice of ChenMed. Your tone, words, and actions shape the patient experience.  
+- When in doubt, lead with empathy, clarity, and ownership.
+
+
