@@ -1,11 +1,11 @@
 # 🧩 QA Form Structure and Design Improvements Proposal
 
 ## 1. Attribute and Driver Framework
-My form converts each attribute question into a written statement.  
+My form converts each attribute question into a one or two word attribute.  
 Under each attribute, I list the related questions as **drivers** (or **behaviors**, if preferred).  
 
 This approach makes the form easier to use, simplifies reporting, and allows feedback to be more precise.  
-In the future, if any updates are needed, we can retain the main attribute and simply revise or replace the drivers — ensuring long-term scalability and consistency.
+In the future, if any updates are needed, we can retain the main attribute and simply revise or replace the drivers, ensuring long-term scalability and consistency.
 
 ---
 
