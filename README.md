@@ -367,7 +367,7 @@ By grouping related competencies, defining N/A scenarios, and ensuring complianc
 </details>
 
 <details>
-<summary><strong>Information Accuracy</strong></summary>
+<summary><strong>Information Accuracy & Confirmation</strong></summary>
 
 **Scoring Options:**  
 - [ ] Meets Expectation  
@@ -375,14 +375,15 @@ By grouping related competencies, defining N/A scenarios, and ensuring complianc
 - [ ] N/A  
 
 **Drivers:**  
-- [ ] Skips clarifying questions needed to understand the patient’s request or the update in Dash  
+- [ ] Skips clarifying questions needed to understand the patient’s request or the update in Dash
+- [ ] Verbally requests address or contact details when required  
 - [ ] Provides information that is incomplete, inaccurate, or missing key details relevant to the patient’s needs  
 - [ ] Communicates in a way that is unclear, overly technical, or confusing to the patient  
 
 **Scoring Definition:**  
 - **ME:** Asks clarifying/relevant questions, provides accurate and complete information, and communicates in a clear and understandable manner  
 - **NI:** Misses critical questions, provides incomplete/inaccurate information, or escalates without fully understanding the issue  
-- **N/A:** No clarification, updates, or escalations were required for the interaction that previous attributes covered. 
+- **N/A:** No clarification, updates, or escalations were required for the interaction that previous attributes covered or was to be captured for Phone Messages and Tasks
 
 </details>
 
