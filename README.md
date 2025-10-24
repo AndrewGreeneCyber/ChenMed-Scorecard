@@ -292,6 +292,26 @@ By grouping related competencies, defining N/A scenarios, and ensuring complianc
 
 </details>
 
+<details>
+<summary><strong>PIN Verification & Symptom Inquiry</strong></summary>
+
+**Scoring Options:**  
+- [ ] Meets Expectation  
+- [ ] Needs Improvement  
+- [ ] N/A  
+
+**Drivers:**  
+- [ ] One or more required PIN questions not asked  
+- [ ] STC enters symptom responses without asking the related question  
+- [ ] PIN questions asked in a confusing or rushed manner  
+- [ ] STC paraphrases incorrectly, changing the intent or meaning of the question  
+
+**Scoring Definition:**  
+- **ME:** STC clearly and naturally asks all four required PIN questions — *“What are you feeling?”, “How long has this been going on?”, “Are you feeling this right now?”, and “Are you feeling anything else currently?”* Questions are asked conversationally and documented accurately, demonstrating attention to patient condition and triage accuracy.  
+- **NI:** One or more PIN questions are omitted, skipped, or poorly phrased; STC inputs answers not obtained verbally; or inquiry feels rushed or incomplete.  
+- **N/A:** ot required for call type.   
+
+</details>
 
 ---
 
